@@ -7,7 +7,7 @@ Am Ende der Semesterarbeiten sollen folgende Ziele erreicht werden.
 1.  _Absolvieren und Bestehen der Zertifizierung_
 2.  _Umfassende Dokumentation als Tagebuch_
 3.  _Saubere Projektplanung und Durchführung_
-4.  _Dokumentation als Github Repository abgeben
+4.  _Dokumentation als Github Repository abgeben_
 5.  _Übungen mit eigenen Beispielen ergänzen oder eigene, praxisbezogenes Beispiel erstellen_
 
 
