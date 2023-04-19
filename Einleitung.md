@@ -25,5 +25,7 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 ## Inhaltsverzeichnis
 
 [Einleitung](./Einleitung.md)
+
 [1. Hauptteil](./1_Hauptteil/Inhaltsseite.md)
+
 [2. Abschluss](./2_Abschluss/Inhaltsseite.md)
