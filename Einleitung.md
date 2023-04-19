@@ -1,4 +1,4 @@
-# Einleitung zur Semesterarbeiten
+# Titelblatt und Einleitung der Semesterarbeiten
 
 Das Thema meiner ersten Semesterarbeit ist die detaillierte Dokumentation meines Werdegangs, in Form eines Tagebuchs, für die Zertifizierung AZ-900. Es sollen Learning-path Fortschritte, Praxisbeispiele erwähnt und gelerntes oder Problemstellungen, reflektiert werden. 
 
@@ -7,7 +7,7 @@ Am Ende der Semesterarbeiten sollen folgende Ziele erreicht werden.
 1.  _Absolvieren und Bestehen der Zertifizierung_
 2.  _Umfassende Dokumentation als Tagebuch_
 3.  _Saubere Projektplanung und Durchführung_
-4.  _Dokumentation als Github Repository abgeben_
+4.  _Dokumentation als Github Repository abgeben
 5.  _Übungen mit eigenen Beispielen ergänzen oder eigene, praxisbezogenes Beispiel erstellen_
 
 
@@ -24,6 +24,6 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 
 ## Inhaltsverzeichnis
 
-[1. Einleitung](Titelseite.md)
-[2. Hauptteil](../2_Hauptteil/Inhaltsseite.md)
-[3. Abschluss](../3_Abschluss/Inhaltsseite.md)
+[1. Einleitung](./Einleitung.md)
+[2. Hauptteil](./2_Hauptteil/Inhaltsseite.md)
+[3. Abschluss](./3_Abschluss/Inhaltsseite.md)
