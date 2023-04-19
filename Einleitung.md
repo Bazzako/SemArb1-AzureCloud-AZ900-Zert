@@ -22,7 +22,7 @@ Mit folgenden Risiken sind während der Arbeit zu rechnen:
 Damit die Semesterarbeit eine ordentliche Struktur erhält, wird hier ein Inhaltsverzeichnis der gesamten Arbeit geführt.
 Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen kleinen Kurzbeschrieb des Unterverzeichnisses findet. In diesem "Readme" werden weitere Navigationspunkte aufgeführt, damit man sich nicht in der Dokumentation verliert.
 
-## Inhaltsverzeichnis
+## Hauptinhaltsverzeichnis
 
 [Einleitung](./Einleitung.md)
 
