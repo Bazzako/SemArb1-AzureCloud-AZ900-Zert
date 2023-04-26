@@ -1,6 +1,6 @@
 
 
 
-[1. Hauptteil](./1_Hauptteil/Inhaltsseite.md)
+[1. Hauptteil](./Inhaltsseite.md)
 
 [Einleitung (Hauptinhaltsverzeichnis)](../Einleitung.md)
