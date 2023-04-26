@@ -4,7 +4,7 @@ Das Thema meiner ersten Semesterarbeit ist die detaillierte Dokumentation meines
 
 Am Ende der Semesterarbeiten sollen folgende Ziele erreicht werden.
 
-1.  _**Absolvieren und Bestehen der Zertifizierung**_
+1.  _Absolvieren und Bestehen der Zertifizierung_
 2.  _Umfassende Dokumentation als Tagebuch_
 3.  _Saubere Projektplanung und Durchführung_
 4.  _Dokumentation als Github Repository abgeben_
