@@ -8,7 +8,7 @@ Im Hauptteil werden Lernergebnisse, Probleme und Praxisbeispiele detailliert bes
 
 [Beschreiben der Vorteile der Verwendung von Clouddiensten](../Beschreiben der Vorteile der Verwendung von Clouddiensten.md)
 
-[Grundlegendes zu Clouddiensttypen](./Grundlegendes_zu_Clouddiensttypen.md)
+[Grundlegendes zu Clouddiensttypen](/Grundlegendes_zu_Clouddiensttypen.md)
 
 [Beschreiben der wichtigsten Architekturkomponenten von Azure](../Beschreiben der wichtigsten Architekturkomponenten von Azure.md)
 
