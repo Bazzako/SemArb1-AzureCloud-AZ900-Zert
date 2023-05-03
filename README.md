@@ -26,6 +26,7 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 
 [1. Einleitung](./1_Einleitung/README.md)
 - [1.1 Was ist Microsoft Azure](./1_Einleitung/Microsoft_Azure.md)
+- [1.2 Projektmanagent Methode](./1_Einleitung/Projektmanagement_methode.md)
 
 
 ----
