@@ -24,20 +24,24 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 
 ## Hauptinhaltsverzeichnis
 
-[Einleitung](./README.md)
+[1. Einleitung](./1_Einleitung)
+- [1.1 Was ist Microsoft Azure](./1_Einleitung/Microsoft_Azure.md)
 
-[1. Hauptteil](./1_Hauptteil/Inhaltsseite.md)
 
-- [1.1 Beschreiben des Cloud Computings](./1_Hauptteil/Beschreiben_des_Cloud_Computings.md)
-- [1.2 Beschreiben der Vorteile der Verwendung von Clouddiensten](./1_Hauptteil/Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md)
-- [1.3 Grundlegendes zu Clouddiensttypen](./1_Hauptteil/Grundlegendes_zu_Clouddiensttypen.md)
-- [1.4 Beschreiben der wichtigsten Architekturkomponenten von Azure](./1_Hauptteil/Beschreiben_der_wichtigsten_Architekturkomponenten_von_Azure.md)
-- [1.5 Beschreiben von Azure Compute- und Azure-Netzwerkdiensten](./1_Hauptteil/Beschreiben_von_Azure_Compute-_und_Azure-Netzwerkdiensten.md)
-- [1.6 Grundlegendes zu Azure-Speicherdiensten](./1_Hauptteil/Grundlegendes_zu_Azure-Speicherdiensten.md)
-- [1.7 Beschreiben von Identität, Zugriff und Sicherheit in Azure](./1_Hauptteil/Beschreiben_von_Identität,_Zugriff_und_Sicherheit_in_Azure.md)
-- [1.8 Beschreiben der Kostenverwaltung in Azure](./1_Hauptteil/Beschreiben_der_Kostenverwaltung_in_Azure.md)
-- [1.9 Beschreiben von Features und Tools zum Verwalten und Bereitstellen von Azure-Ressourcen](./1_Hauptteil/Beschreiben_von_Features_und_Tools_zum_Verwalten_und_Bereitstellen_von_Azure-Ressourcen.md)
-- [1.10 Beschreiben von Azure-Features und -Tools für Governance und Compliance](./1_Hauptteil/Beschreiben_von_Azure-Features_und_-Tools_für_Governance_und_Compliance.md)
-- [1.11 Beschreiben von Überwachungstools in Azure](./1_Hauptteil/Beschreiben_von_Überwachungstools_in_Azure.md)
+----
+[2. Hauptteil](./2_Hauptteil/Inhaltsseite.md)
 
-[2. Abschluss](./2_Abschluss/Inhaltsseite.md)
+- [2.1 Beschreiben des Cloud Computings](./2_Hauptteil/Beschreiben_des_Cloud_Computings.md)
+- [2.2 Beschreiben der Vorteile der Verwendung von Clouddiensten](./2_Hauptteil/Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md)
+- [2.3 Grundlegendes zu Clouddiensttypen](./2_Hauptteil/Grundlegendes_zu_Clouddiensttypen.md)
+- [2.4 Beschreiben der wichtigsten Architekturkomponenten von Azure](./2_Hauptteil/Beschreiben_der_wichtigsten_Architekturkomponenten_von_Azure.md)
+- [2.5 Beschreiben von Azure Compute- und Azure-Netzwerkdiensten](./2_Hauptteil/Beschreiben_von_Azure_Compute-_und_Azure-Netzwerkdiensten.md)
+- [2.6 Grundlegendes zu Azure-Speicherdiensten](./2_Hauptteil/Grundlegendes_zu_Azure-Speicherdiensten.md)
+- [2.7 Beschreiben von Identität, Zugriff und Sicherheit in Azure](./2_Hauptteil/Beschreiben_von_Identität,_Zugriff_und_Sicherheit_in_Azure.md)
+- [2.8 Beschreiben der Kostenverwaltung in Azure](./2_Hauptteil/Beschreiben_der_Kostenverwaltung_in_Azure.md)
+- [2.9 Beschreiben von Features und Tools zum Verwalten und Bereitstellen von Azure-Ressourcen](./2_Hauptteil/Beschreiben_von_Features_und_Tools_zum_Verwalten_und_Bereitstellen_von_Azure-Ressourcen.md)
+- [2.10 Beschreiben von Azure-Features und -Tools für Governance und Compliance](./2_Hauptteil/Beschreiben_von_Azure-Features_und_-Tools_für_Governance_und_Compliance.md)
+- [2.11 Beschreiben von Überwachungstools in Azure](./2_Hauptteil/Beschreiben_von_Überwachungstools_in_Azure.md)
+
+----
+[3. Abschluss](./2_Abschluss/Inhaltsseite.md)
