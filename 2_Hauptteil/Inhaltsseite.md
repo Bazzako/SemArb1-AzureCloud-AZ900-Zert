@@ -26,4 +26,4 @@ Im Hauptteil werden Lernergebnisse, Probleme und Praxisbeispiele detailliert bes
 
 [Beschreiben von Überwachungstools in Azure](./Beschreiben_von_Überwachungstools_in_Azure.md)
 
-[Einleitung (Hauptinhaltsverzeichnis)](../Einleitung.md)
+[Einleitung (Hauptinhaltsverzeichnis)](../README.md)
