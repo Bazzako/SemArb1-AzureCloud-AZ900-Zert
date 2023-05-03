@@ -1,5 +1,5 @@
 
 
-[2. Hauptteil](./Inhaltsseite.md)
+[2. Hauptteil](./README.md)
 
-[Einleitung (Hauptinhaltsverzeichnis)](../Einleitung.md)
+[Titelseite (Hauptinhaltsverzeichnis)](../README.md)

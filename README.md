@@ -1,4 +1,4 @@
-# Titelblatt und Einleitung der Semesterarbeiten
+# Titelblatt der Semesterarbeiten
 
 Das Thema meiner ersten Semesterarbeit ist die detaillierte Dokumentation meines Werdegangs, in Form eines Tagebuchs, für die Zertifizierung AZ-900. Es sollen Learning-path Fortschritte, Praxisbeispiele erwähnt und gelerntes oder Problemstellungen, reflektiert werden. 
 
@@ -24,12 +24,12 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 
 ## Hauptinhaltsverzeichnis
 
-[1. Einleitung](./1_Einleitung)
+[1. Einleitung](./1_Einleitung/README.md)
 - [1.1 Was ist Microsoft Azure](./1_Einleitung/Microsoft_Azure.md)
 
 
 ----
-[2. Hauptteil](./2_Hauptteil/Inhaltsseite.md)
+[2. Hauptteil](./2_Hauptteil/README.md)
 
 - [2.1 Beschreiben des Cloud Computings](./2_Hauptteil/Beschreiben_des_Cloud_Computings.md)
 - [2.2 Beschreiben der Vorteile der Verwendung von Clouddiensten](./2_Hauptteil/Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md)
@@ -44,4 +44,4 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 - [2.11 Beschreiben von Überwachungstools in Azure](./2_Hauptteil/Beschreiben_von_Überwachungstools_in_Azure.md)
 
 ----
-[3. Abschluss](./2_Abschluss/Inhaltsseite.md)
+[3. Abschluss](./2_Abschluss/README.md)
