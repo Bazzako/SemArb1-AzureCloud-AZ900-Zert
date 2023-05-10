@@ -5,6 +5,6 @@ Azure umfasst eine Vielzahl von Cloud-Diensten wie z.B. virtuelle Maschinen, Spe
 
 ## Inhaltsverzeichnis
 
-[1. Einleitung](SemArb1-AzureCloud-AZ900-Zert/1_Einleitung/README.md)
+[1. Einleitung](./README.md)
 
 [Titelseite (Hauptinhaltsverzeichnis)](../README.md)
