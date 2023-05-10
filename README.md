@@ -24,10 +24,10 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 
 ## Hauptinhaltsverzeichnis
 
-[1. Einleitung](./1_Einleitung/README.md)
+[1. Einleitung](SemArb1-AzureCloud-AZ900-Zert/1_Einleitung/README.md)
+
 - [1.1 Was ist Microsoft Azure](./1_Einleitung/Microsoft_Azure.md)
 - [1.2 Projektmanagent Methode](./1_Einleitung/Projektmanagement_methode.md)
-
 
 ----
 [2. Hauptteil](./2_Hauptteil/README.md)
@@ -45,4 +45,13 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 - [2.11 Beschreiben von Überwachungstools in Azure](./2_Hauptteil/Beschreiben_von_Überwachungstools_in_Azure.md)
 
 ----
-[3. Abschluss](./2_Abschluss/README.md)
+[3. Abschluss](./3_Abschluss/README.md)
+
+- [3.1 Erreichte Ziele](./3_Abschluss/Erreichte_Ziele.md)
+- [3.2 Probleme](./3_Abschluss/Probleme.md)
+- [3.3 Schlusswort](./3_Abschluss/Schlusswort.md)
+
+---
+[4. Anhang](./4_Anhang/README.md)
+
+- [4.1 Quellenangabe](./4_Anhang/Quellenangabe.md)
