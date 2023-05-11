@@ -9,6 +9,7 @@ Kanban ist eine agile Projektmanagement-Methode, die auf der Visualisierung von 
 Kanban kann auch sehr gut für kleine Projekte an welchen nur eine Person arbeitet verwendet werden.
 
 ![Kanban](../ressources/Kanban_Screenshot.jpg)
+![]
 
 ## Inhaltsverzeichnis
 
