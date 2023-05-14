@@ -10,6 +10,7 @@ Am Ende der Semesterarbeiten sollen folgende Ziele erreicht werden.
 4.  _Dokumentation als Github Repository abgeben_
 5.  _Übungen mit eigenen Beispielen ergänzen oder eigene, praxisbezogenes Beispiel erstellen_
 
+![AZ-900](./ressources/azure-fundamentals.png)
 
 Mit folgenden Risiken sind während der Arbeit zu rechnen:
 
