@@ -16,6 +16,7 @@ Um mir visuell die Unterschiede der Cloudmodelle aufzuführen, habe ich die Tabe
 | Anwendungen können schnell bereitgestellt und außer Betrieb genommen werden          | Daten werden nicht mit den Daten anderer Organisationen zusammengeführt    | Organisationen bestimmen, wo ihre Anwendungen ausgeführt werden                      |
 | Organisationen zahlen nur für das, was sie nutzen                                    | Hardware muss für die Inbetriebnahme erworben und gewartet werden          | Organisationen kontrollieren Sicherheits-, Compliance- oder rechtliche Anforderungen |
 | Organisationen haben nicht die vollständige Kontrolle über Ressourcen und Sicherheit | Organisationen sind für Hardwarewartung und -erneuerung verantwortlich     |                                                                                    |
+
 [Quelle Tabelle: Cloudmodelle](../4_Anhang/Quellenangabe.md#Tabelle-der-verschiedenen-cloudmodelle)
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
