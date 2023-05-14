@@ -7,7 +7,7 @@ Beim *Platform as a Service (PaaS)* Model werden je nach bezogenen Service die V
 Im folgenden Diagramm werden diese Unterteilungen visuell erläutert.
 
 ![Shared Responsibility Model](../ressources/Sharedrespons_Screenshot.jpg)
-[Quelle Screenshot: Responsibility Model](../4_Anhang/Quellenangabe.md#IaaS,PaaS und SaaS)
+![Quelle Screenshot: Responsibility Model](../4_Anhang/Quellenangabe.md#IaaS,PaaS und SaaS)
 
 Um mir visuell die Unterschiede der Cloudmodelle aufzuführen, habe ich die Tabelle vom Learning-Path in dieses Dokument kopiert:
 | Öffentliche Cloud                                                                    | Private Cloud                                                              | Hybride Cloud                                                                        |
