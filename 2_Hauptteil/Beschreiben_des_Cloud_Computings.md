@@ -1,14 +1,29 @@
 ## Beschreiben des Cloud-Computings
 
 Da ich bereits einige Berührungspunkte während der Arbeit mit der Cloud hatte, ist mir dies kein Fremdwort. Hauptsächlich habe ich mit Microsoft Intune und Office 365 zu tun. Teilweise habe ich auch Einblicke in das Azure Active Directory. Einiges was in diesem Modul beschrieben wird, kannte ich bereits, weshalb dies eine Repetition für mich ist. Nichtsdestotrotz möchte ich einige Begriffe vertieft analysieren und dokumentieren. Es handelt sich hierbei um das Shared Responsiblity Model und die Abgrenzungen von IaaS, PaaS und SaaS.
-Beim Shared Responsibility Model handelt es sich um die Verantwortlichkeitsaufteilung zwischen dem Cloudanbieter und des Konsumenten. In den verschiedenen Services wird genauer unterteilt, wer wieviel Verantwortung hat.
-Beim *Infrastructur as a Service (IaaS)* Model liegt die Verwantwortung für das warten der Hardware,Netzwerks und Datacenter beim Provider. Alles darüberliegende liegt im Verantwortungsbereichs des Konsumenten.
-Beim *Platform as a Service (PaaS)* Model werden je nach bezogenen Service die Verantwortung aufgeteilt,
-
+Beim Shared Responsibility Model handelt es sich um die Verantwortungsaufteilung zwischen dem Cloudanbieter und des Konsumenten. In den verschiedenen Services wird genauer unterteilt, wer wie viel Verantwortung hat.
+Beim *Infrastructur as a Service (IaaS)* Model liegt die Verantwortung für das Warten der Hardware, Netzwerks, Energie, Konnektivität und Datacenter beim Provider. Alles darüberliegende liegt im Verantwortungsbereichs des Konsumenten.
+Beim *Platform as a Service (PaaS)* Model werden je nach bezogenen Service die Verantwortung unter Provider und Konsument aufgeteilt, so ist z.B. der Provider für das Bereitstellen einer SQL-Datenbank (SQL Database) verantwortlich. Die Wartung und das Updaten der Datenbank liegt jedoch in der Verantwortung des Konsumenten. Beim *Software as a Service (SaaS)* Model liegt die meiste Verantwortung beim Provider. So kann der Konsument den Hauptfokus auf seine Software legen und muss nicht erst noch eine virtuelle Umgebung aufbauen, um diese betreiben zu können.
+Im folgenden Diagramm werden diese Unterteilungen visuell erläutert.
 
 ![Shared Responsibility Model](../ressources/Sharedrespons_Screenshot.jpg)
 [Quelle Screenshot: Responsibility Model](../4_Anhang/Quellenangabe.md#IaaS,PaaS und SaaS)
 
+Um mir visuell die Unterschiede der Cloudmodelle aufzuführen, habe ich die Tabelle vom Learning-Path in dieses Dokument kopiert:
+| Öffentliche Cloud                                                                    | Private Cloud                                                              | Hybride Cloud                                                                        |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Keine hochzuskalierenden Investitionskosten                                          | Organisationen haben vollständige Kontrolle über Ressourcen und Sicherheit | Bietet die größte Flexibilität                                                       |
+| Anwendungen können schnell bereitgestellt und außer Betrieb genommen werden          | Daten werden nicht mit den Daten anderer Organisationen zusammengeführt    | Organisationen bestimmen, wo ihre Anwendungen ausgeführt werden                      |
+| Organisationen zahlen nur für das, was sie nutzen                                    | Hardware muss für die Inbetriebnahme erworben und gewartet werden          | Organisationen kontrollieren Sicherheits-, Compliance- oder rechtliche Anforderungen |
+| Organisationen haben nicht die vollständige Kontrolle über Ressourcen und Sicherheit | Organisationen sind für Hardwarewartung und -erneuerung verantwortlich     |                                                                                    |
+[Quelle Tabelle: Cloudmodelle](../4_Anhang/Quellenangabe.md#Tabelle der verschiedenen Cloudmodelle)
+
+Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
+![Wissensbeurteilung](../ressources/Wissenscheck_GrundlegendeszucloudComputing.jpg)
+
+### Kurze Reflexion
+
+Wie ich bereits am Anfang des Dokuments erwähnt habe, ist mir die Cloud kein komplett neuer Begriff, weshalb mir die Einführung nicht sehr schwergefallen ist. Mir hat es jedoch geholfen, einzelne Themen vertieft anzuschauen und zusätzlich zu dokumentieren.
 
 ## Inhaltsverzeichnis
 
