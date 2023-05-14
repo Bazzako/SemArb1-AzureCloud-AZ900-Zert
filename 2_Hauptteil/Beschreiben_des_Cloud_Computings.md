@@ -20,6 +20,7 @@ Um mir visuell die Unterschiede der Cloudmodelle aufzuführen, habe ich die Tabe
 [Quelle Tabelle: Cloudmodelle](../4_Anhang/Quellenangabe.md#Tabelle-der-verschiedenen-cloudmodelle)
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
+
 ![Wissensbeurteilung](../ressources/Wissenscheck_GrundlegendeszucloudComputing.jpg)
 
 ### Kurze Reflexion
