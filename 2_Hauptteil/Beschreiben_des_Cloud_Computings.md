@@ -2,8 +2,15 @@
 
 Da ich bereits einige Berührungspunkte während der Arbeit mit der Cloud hatte, ist mir dies kein Fremdwort. Hauptsächlich habe ich mit Microsoft Intune und Office 365 zu tun. Teilweise habe ich auch Einblicke in das Azure Active Directory. Einiges was in diesem Modul beschrieben wird, kannte ich bereits, weshalb dies eine Repetition für mich ist. Nichtsdestotrotz möchte ich einige Begriffe vertieft analysieren und dokumentieren. Es handelt sich hierbei um das Shared Responsiblity Model und die Abgrenzungen von IaaS, PaaS und SaaS.
 Beim Shared Responsibility Model handelt es sich um die Verantwortungsaufteilung zwischen dem Cloudanbieter und des Konsumenten. In den verschiedenen Services wird genauer unterteilt, wer wie viel Verantwortung hat.
+
+
 Beim *Infrastructur as a Service (IaaS)* Model liegt die Verantwortung für das Warten der Hardware, Netzwerks, Energie, Konnektivität und Datacenter beim Provider. Alles darüberliegende liegt im Verantwortungsbereichs des Konsumenten.
-Beim *Platform as a Service (PaaS)* Model werden je nach bezogenen Service die Verantwortung unter Provider und Konsument aufgeteilt, so ist z.B. der Provider für das Bereitstellen einer SQL-Datenbank (SQL Database) verantwortlich. Die Wartung und das Updaten der Datenbank liegt jedoch in der Verantwortung des Konsumenten. Beim *Software as a Service (SaaS)* Model liegt die meiste Verantwortung beim Provider. So kann der Konsument den Hauptfokus auf seine Software legen und muss nicht erst noch eine virtuelle Umgebung aufbauen, um diese betreiben zu können.
+
+Beim *Platform as a Service (PaaS)* Model werden je nach bezogenen Service die Verantwortung unter Provider und Konsument aufgeteilt, so ist z.B. der Provider für das Bereitstellen einer SQL-Datenbank (SQL Database) verantwortlich. Die Wartung und das Updaten der Datenbank liegt jedoch in der Verantwortung des Konsumenten.
+
+Beim *Software as a Service (SaaS)* Model liegt die meiste Verantwortung beim Provider. So kann der Konsument den Hauptfokus auf seine Software legen und muss nicht erst noch eine virtuelle Umgebung aufbauen, um diese betreiben zu können.
+
+
 Im folgenden Diagramm werden diese Unterteilungen visuell erläutert.
 
 ![Shared Responsibility Model](../ressources/Sharedrespons_Screenshot.jpg)
