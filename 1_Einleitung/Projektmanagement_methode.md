@@ -1,6 +1,6 @@
 ## Projektmethode Methode
 
-Während meiner Semesterarbeit werde ich mit der Projektmanagement-Methode Kanban arbeiten. Kanban ist in Github bereits integriert, in welchen man Boards und Tasks selbst erstellen kann. So habe ich in Form von "Issues" die Module vom Learning-Path übernommen und die einzelnen Lernziele als abschliessbare Subtask erfasst. Mit Kanban kann ich sehr effizient arbeiten und sehe stetig meine Fortschritte. Mittels der verschieden Stati, sehe ich, an welchen Themen ich gerade arbeite oder welche abgeschlossen wurden.
+Während meiner Semesterarbeit werde ich mit der Projektmanagement-Methode Kanban arbeiten. Kanban ist in Github bereits integriert, in welchen man Boards und Tasks selbst erstellen kann. So habe ich in Form von "Issues" die Module vom Learning-Path übernommen und die einzelnen Lernziele als abschliessbare Subtask erfasst. Mit Kanban kann ich sehr effizient arbeiten und sehe stetig meine Fortschritte. Mittels der verschieden Stati, sehe ich, an welchen Themen ich gerade arbeite oder welche abgeschlossen wurden. In Github Projekts kann man für Kanban verschiedene Ansichten erstellen. So habe ich ein Gantt-Diagramm erstellt, in welchem man den ganzen Projektfortschritt verfolgen und überprüfen kann.
 
 
 ## Was ist Kanban
