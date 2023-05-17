@@ -5,10 +5,10 @@ Hier werden die 3 Sprint-Abschlüsse welche während dem Projekt durchgeführt w
 ## Inhaltsverzeichnis
 
 
-[5.1 1. Sprint-Abschluss](1_Sprint_Abschluss.md)
+[5.1 1. Sprint-Abschluss](./1_Sprint_Abschluss.md)
 
-[5.2 2. Sprint-Abschluss](2_Sprint-Abschluss.md)
+[5.2 2. Sprint-Abschluss](./2_Sprint_Abschluss.md)
 
-[5.2 3. Sprint-Abschluss](3_Sprint-Abschluss.md)
+[5.2 3. Sprint-Abschluss](./3_Sprint_Abschluss.md)
 
 [Titelseite (Hauptinhaltsverzeichnis)](../README.md)

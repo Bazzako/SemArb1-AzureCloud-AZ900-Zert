@@ -8,8 +8,7 @@ Während meiner Semesterarbeit werde ich mit der Projektmanagement-Methode Kanba
 Kanban ist eine agile Projektmanagement-Methode, die auf der Visualisierung von Arbeitsabläufen basiert. Es handelt sich um ein System von Karten, die die Arbeit darstellen, die zu erledigen sind, sowie den Fortschritt, der bereits gemacht wurde. Kanban ermöglicht es Teams, ihre Arbeit zu organisieren, zu visualisieren und zu optimieren, indem es den Fokus auf die Steuerung des Workflows und die Vermeidung von Überlastung legt. Kanban-Boards zeigen den aktuellen Stand der Arbeit an und helfen, den Arbeitsfluss zu verbessern, indem sie Engpässe aufdecken und Verbesserungspotential aufzeigen. Kanban fördert auch die Zusammenarbeit im Team und die kontinuierliche Verbesserung des Arbeitsprozesses.
 Kanban kann auch sehr gut für kleine Projekte an welchen nur eine Person arbeitet verwendet werden.
 
-![Kanban](../ressources/Kanban_Screenshot.jpg)
-![]
+![Kanban](../ressources/Kanban_Screenshot.png)
 
 ## Inhaltsverzeichnis
 

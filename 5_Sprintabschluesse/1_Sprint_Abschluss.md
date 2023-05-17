@@ -19,4 +19,8 @@ Da wir viel Zeit währen dem Unterricht haben an unserer Semesterarbeit zu arbei
 Im 2. Sprint muss folgender Meilenstein erreicht werden.
 ![Meilenstein für den 2. Sprint](../ressources/1_Sprint_Futuremilestone.png)
 
+## Inhaltsverzeichnis
 
+[5. Sprintabschlüsse](./README.md)
+
+[Titelseite (Hauptinhaltsverzeichnis)](../README.md)

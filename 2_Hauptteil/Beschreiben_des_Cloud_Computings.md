@@ -8,7 +8,7 @@ Beim *Infrastructur as a Service (IaaS)* Model liegt die Verantwortung für das 
 
 Beim *Platform as a Service (PaaS)* Model werden je nach bezogenen Service die Verantwortung unter Provider und Konsument aufgeteilt, so ist z.B. der Provider für das Bereitstellen einer SQL-Datenbank (SQL Database) verantwortlich. Die Wartung und das Updaten der Datenbank liegt jedoch in der Verantwortung des Konsumenten.
 
-Beim *Software as a Service (SaaS)* Model liegt die meiste Verantwortung beim Provider. So kann der Konsument den Hauptfokus auf seine Software legen und muss nicht erst noch eine virtuelle Umgebung aufbauen, um diese betreiben zu können.
+Beim *Software as a Service (SaaS)* Model liegt die meiste Verantwortung beim Provider. So kann der Konsument den Hauptfokus auf seine Software legen und muss nicht erst noch eine virtuelle Umgebung aufbauen, um diese betreiben zu können. *SaaS* bietet auch bereits fertige Lösungen, ein klassisches Beispiel ist hier *Office 365*.
 
 
 Im folgenden Diagramm werden diese Unterteilungen visuell erläutert.
@@ -28,8 +28,9 @@ Um mir visuell die Unterschiede der Cloudmodelle aufzuführen, habe ich die Tabe
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
-![Wissensbeurteilung](../ressources/Wissenscheck_GrundlegendeszucloudComputing.jpg)
+![1. Wissensbeurteilung](../ressources/Wissenscheck_GrundlegendeszucloudComputing.jpg)
 
+![2. Wissensbeurteilung](../ressources/2_Wissensbeuurteilung.png)
 ### Kurze Reflexion
 
 Wie ich bereits am Anfang des Dokuments erwähnt habe, ist mir die Cloud kein komplett neuer Begriff, weshalb mir die Einführung nicht sehr schwergefallen ist. Mir hat es jedoch geholfen, einzelne Themen vertieft anzuschauen und zusätzlich zu dokumentieren.
