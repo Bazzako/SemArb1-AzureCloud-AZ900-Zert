@@ -23,6 +23,8 @@ Mit folgenden Risiken sind während der Arbeit zu rechnen:
 Damit die Semesterarbeit eine ordentliche Struktur erhält, wird hier ein Inhaltsverzeichnis der gesamten Arbeit geführt.
 Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen kleinen Kurzbeschrieb des Unterverzeichnisses findet. In diesem "Readme" werden weitere Navigationspunkte aufgeführt, damit man sich nicht in der Dokumentation verliert. Die ganze Arbeit wird im Github dokumentiert.
 
+
+
 ## Hauptinhaltsverzeichnis
 
 [1. Einleitung](SemArb1-AzureCloud-AZ900-Zert/1_Einleitung/README.md)
@@ -56,3 +58,10 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 [4. Anhang](./4_Anhang/README.md)
 
 - [4.1 Quellenangabe](./4_Anhang/Quellenangabe.md)
+
+---
+[5. Sprintabschlüsse](./5_Sprintabschluesse/README.md)
+
+- [5.1 1. Sprint-Abschluss](./5_Sprintabschluesse/1_Sprint_Abschluss.md)
+- [5.2 2. Sprint-Abschluss](./5_Sprintabschluesse/2_Sprint_Abschluss.md)
+- [5.3 3. Sprint-Abschluss](./5_Sprintabschluesse/3_Sprint_Abschluss.md)
