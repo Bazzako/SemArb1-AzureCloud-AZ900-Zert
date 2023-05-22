@@ -2,7 +2,7 @@
 
 Da ich bereits einige Berührungspunkte während der Arbeit mit der Cloud hatte, ist mir dies kein Fremdwort. Hauptsächlich habe ich mit Microsoft Intune und Office 365 zu tun. Teilweise habe ich auch Einblicke in das Azure Active Directory. Einiges was in diesem Modul beschrieben wird, kannte ich bereits, weshalb dies eine Repetition für mich ist. Nichtsdestotrotz möchte ich einige Begriffe vertieft analysieren und dokumentieren. Am Ende des Kapitels werde ich eine kurze Reflexion über das gelernte schreiben.
 
-### Shared Responsibility-Modells
+### Shared-Responsibility-Modells
 
 Beim Shared Responsibility Model handelt es sich um die Verantwortungsaufteilung zwischen dem Cloudanbieter und des Konsumenten. In den verschiedenen Services wird genauer unterteilt, wer wie viel Verantwortung hat.
 
