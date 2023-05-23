@@ -50,30 +50,30 @@ Die Sicherheit wird, wie bereits [hier](./Beschreiben_des_Cloud_Computings.md#Sh
 
 Ich habe mich mit der Dokumentation von Microsoft nicht zufriedengestellt, weshalb ich eine Antwort von ChatGPT erhalten wollte. ChatGPT antwortete mir auf die Frage "Erkläre mir Sicherheit und Governance in der Cloud von Azure" mit folgendem Text:
 
-*Sicherheit und Governance sind zwei wichtige Aspekte beim Einsatz von Cloud-Diensten wie Microsoft Azure. Hier ist eine Erklärung, was diese Begriffe bedeuten und wie sie in Azure umgesetzt werden:
+*Sicherheit und Governance sind zwei wichtige Aspekte beim Einsatz von Cloud-Diensten wie Microsoft Azure. Hier ist eine Erklärung, was diese Begriffe bedeuten und wie sie in Azure umgesetzt werden:*
 
-1.  *Sicherheit in der Cloud von Azure: Die Sicherheit in der Azure-Cloud umfasst eine Vielzahl von Maßnahmen zum Schutz der Systeme, Daten und Anwendungen vor unbefugtem Zugriff, Datenverlust, Bedrohungen und anderen Sicherheitsrisiken. Azure stellt eine Reihe von integrierten Sicherheitsfunktionen und -diensten zur Verfügung, die Folgendes umfassen:
+1.  *Sicherheit in der Cloud von Azure: Die Sicherheit in der Azure-Cloud umfasst eine Vielzahl von Maßnahmen zum Schutz der Systeme, Daten und Anwendungen vor unbefugtem Zugriff, Datenverlust, Bedrohungen und anderen Sicherheitsrisiken. Azure stellt eine Reihe von integrierten Sicherheitsfunktionen und -diensten zur Verfügung, die Folgendes umfassen:*
     
-    *a. Identitäts- und Zugriffsverwaltung: Azure Active Directory (Azure AD) ermöglicht die zentrale Verwaltung von Benutzeridentitäten und den Zugriff auf Azure-Ressourcen. Es bietet Funktionen wie Multi-Faktor-Authentifizierung und Single Sign-On, um die Sicherheit der Identitätsverwaltung zu erhöhen.
+    *a. Identitäts- und Zugriffsverwaltung: Azure Active Directory (Azure AD) ermöglicht die zentrale Verwaltung von Benutzeridentitäten und den Zugriff auf Azure-Ressourcen. Es bietet Funktionen wie Multi-Faktor-Authentifizierung und Single Sign-On, um die Sicherheit der Identitätsverwaltung zu erhöhen.*
     
-    *b. Netzwerksicherheit: Azure Virtual Network (VNet) ermöglicht die Erstellung von isolierten Netzwerken und die Segmentierung von Ressourcen. Netzwerksicherheitsgruppen (Network Security Groups, NSGs) ermöglichen die Definition von Firewall-Regeln zur Steuerung des Datenverkehrs zwischen den Ressourcen.
+    *b. Netzwerksicherheit: Azure Virtual Network (VNet) ermöglicht die Erstellung von isolierten Netzwerken und die Segmentierung von Ressourcen. Netzwerksicherheitsgruppen (Network Security Groups, NSGs) ermöglichen die Definition von Firewall-Regeln zur Steuerung des Datenverkehrs zwischen den Ressourcen.*
     
-    *c. Datenverschlüsselung: Azure bietet Möglichkeiten zur Verschlüsselung von Daten sowohl im Ruhezustand als auch während der Übertragung. Azure Storage bietet beispielsweise automatische Verschlüsselung für gespeicherte Daten.
+    *c. Datenverschlüsselung: Azure bietet Möglichkeiten zur Verschlüsselung von Daten sowohl im Ruhezustand als auch während der Übertragung. Azure Storage bietet beispielsweise automatische Verschlüsselung für gespeicherte Daten.*
     
-    *d. Bedrohungserkennung und -abwehr: Azure Security Center bietet eine umfassende Sicherheitsüberwachung und Bedrohungserkennung für Azure-Ressourcen. Es erkennt Angriffe, verdächtiges Verhalten und Schwachstellen und bietet Empfehlungen zur Behebung von Sicherheitslücken.
+    *d. Bedrohungserkennung und -abwehr: Azure Security Center bietet eine umfassende Sicherheitsüberwachung und Bedrohungserkennung für Azure-Ressourcen. Es erkennt Angriffe, verdächtiges Verhalten und Schwachstellen und bietet Empfehlungen zur Behebung von Sicherheitslücken.*
     
-2.  *Governance in der Cloud von Azure: Governance bezieht sich auf die Definition und Durchsetzung von Richtlinien, Best Practices und Verfahren zur effektiven Verwaltung der Cloud-Ressourcen. Azure bietet eine Reihe von Funktionen und Diensten, um die Governance zu unterstützen:
+2.  *Governance in der Cloud von Azure: Governance bezieht sich auf die Definition und Durchsetzung von Richtlinien, Best Practices und Verfahren zur effektiven Verwaltung der Cloud-Ressourcen. Azure bietet eine Reihe von Funktionen und Diensten, um die Governance zu unterstützen:*
     
-    *a. Azure Policy: Mit Azure Policy können Richtlinien definiert und erzwungen werden, um sicherzustellen, dass Azure-Ressourcen im Einklang mit Unternehmensstandards und Compliance-Anforderungen bereitgestellt werden. Richtlinien können beispielsweise Regeln zur Ressourcenkennzeichnung, zur Überprüfung der Konfiguration oder zur Einhaltung bestimmter Sicherheitsstandards festlegen.
+    *a. Azure Policy: Mit Azure Policy können Richtlinien definiert und erzwungen werden, um sicherzustellen, dass Azure-Ressourcen im Einklang mit Unternehmensstandards und Compliance-Anforderungen bereitgestellt werden. Richtlinien können beispielsweise Regeln zur Ressourcenkennzeichnung, zur Überprüfung der Konfiguration oder zur Einhaltung bestimmter Sicherheitsstandards festlegen.*
     
-    *b. Kostenmanagement: Azure bietet Funktionen zur Überwachung und Verwaltung von Kosten, um sicherzustellen, dass Ressourcen effizient genutzt und Budgets eingehalten werden. Azure Cost Management and Billing bietet Funktionen zur Kostenverfolgung, Budgetierung und Abrechnung.
+    *b. Kostenmanagement: Azure bietet Funktionen zur Überwachung und Verwaltung von Kosten, um sicherzustellen, dass Ressourcen effizient genutzt und Budgets eingehalten werden. Azure Cost Management and Billing bietet Funktionen zur Kostenverfolgung, Budgetierung und Abrechnung.*
     
-    *c. Rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC): Azure RBAC ermöglicht die Feinabstimmung von Zugriffsberechtigungen für Azure-Ressourcen. Administratoren können benutzerdefinierte Rollen erstellen und den Zugriff auf Basis von Aufgaben und Verantwortlichkeiten zuweisen.
+    *c. Rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC): Azure RBAC ermöglicht die Feinabstimmung von Zugriffsberechtigungen für Azure-Ressourcen. Administratoren können benutzerdefinierte Rollen erstellen und den Zugriff auf Basis von Aufgaben und Verantwortlichkeiten zuweisen.*
     
-    *d. Überwachung und Compliance: Azure bietet umfangreiche Überwachungs- und Compliance-Funktionen, darunter Protokollierung, Überwachung von Sicherheitsereignissen, Konformitätszertifizierungen (wie ISO 27001, GDPR usw.) und Unterstützung für Audit- und Compliance-Anforderungen.
+    *d. Überwachung und Compliance: Azure bietet umfangreiche Überwachungs- und Compliance-Funktionen, darunter Protokollierung, Überwachung von Sicherheitsereignissen, Konformitätszertifizierungen (wie ISO 27001, GDPR usw.) und Unterstützung für Audit- und Compliance-Anforderungen.*
     
 
-*Diese Sicherheits- und Governance-Funktionen in Azure ermöglichen es Unternehmen, ihre Cloud-Ressourcen sicher und effektiv zu verwalten, Compliance-Anforderungen zu erfüllen und die Daten und Systeme vor Bedrohungen zu schützen. Es ist jedoch wichtig zu beachten, dass die effektive Nutzung dieser Funktionen auch eine angemessene Konfiguration und Überwachung seitens der Unternehmen erfordert*.
+*Diese Sicherheits- und Governance-Funktionen in Azure ermöglichen es Unternehmen, ihre Cloud-Ressourcen sicher und effektiv zu verwalten, Compliance-Anforderungen zu erfüllen und die Daten und Systeme vor Bedrohungen zu schützen. Es ist jedoch wichtig zu beachten, dass die effektive Nutzung dieser Funktionen auch eine angemessene Konfiguration und Überwachung seitens der Unternehmen erfordert.*
 [Quelle ChatGPT](https://chat.openai.com/)
 
 Ich musste weiter recherchieren, weil ich den Begriff *Governance* immer noch nicht so richtig verstanden habe. Ich habe ChatGPT eine gezielte Frage bezüglich *Governance* gestellt. Und verstehe nun, dass Governance in der Azure Cloud für die Verwaltung der Ressourcen, Dienste und Umgebungen zuständig ist. Es geht darum, klare Regeln und Kontrollen festzulegen, um sicherzustellen, dass Azure-Ressourcen im Einklang mit den Unternehmensstandards, Best Practices, Compliance-Anforderungen und Sicherheitsrichtlinien verwendet werden.
