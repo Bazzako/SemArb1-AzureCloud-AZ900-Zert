@@ -15,7 +15,7 @@ Ich werde die neu erlernten Themen zusammenfassen und am Ende eine kurze Reflexi
 Ich kannte den Begriff *Hochverfügbarkeit* bereits. Ich wusste jedoch nicht, dass Azure ihre *Hochverfügbarkeit* mittels SLA anbietet. Hier gilt zu wissen, dass eine 100 % Verfügbarkeit sehr schwierig zu erreichen ist und enorm viel Geld kostet. Diese *Hochverfügbarkeit* wird auch Uptime genannt. In folgendem Beispiel sieht man, wie sich diese Uptime prozentual auf eine Woche oder auf einen Monat auswirken kann.
 
 Bei einem SLA mit einer *99% Uptime* darf eine Azure Anwendung oder ein Azure Dienst in der *Woche 1.68 Stunden* oder in einem *Monat 7.2 Stunden* down sein.
-Bei einem SLA mit einer *99.9% Uptime* darf eine Azure Anwendung oder ein Azure Dienst in der *Woche 10 Minuten* oder in einem *Monat 43.2 Minuten down sein.
+Bei einem SLA mit einer *99.9% Uptime* darf eine Azure Anwendung oder ein Azure Dienst in der *Woche 10 Minuten* oder in einem *Monat 43.2 Minuten* down sein.
 
 #### Skalierbarkeit
 
