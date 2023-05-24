@@ -40,6 +40,7 @@ OpEx sind die fortlaufenden Kosten, welche für bezogene Dienstleistungen ausgeg
 
 
 ### Wissenscheck
+
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
 ![1. Wissensbeurteilung](../ressources/Wissenscheck_GrundlegendeszucloudComputing.jpg)

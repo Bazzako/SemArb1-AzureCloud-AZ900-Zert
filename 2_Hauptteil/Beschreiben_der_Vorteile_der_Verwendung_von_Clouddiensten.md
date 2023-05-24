@@ -87,8 +87,8 @@ Es gibt 2 Verwaltungsarten für das Cloud-Computing. *Verwaltung der Cloud* und 
 *Verwaltung der Cloud* bedeutet grundsätzlich, dass man die Ressourcen, welche man in der Cloud zur Verfügung hat, verwalten kann. Hier sind die Themen, welche in diesem Kapitel beschrieben wurden gemeint:
 - Skalierung der Ressourcen ([Hochverfügbarkeit und Skalierbarkeit in der Cloud](./Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md#Skalierbarkeit))
 - Automatisiertes bereitstellen von Ressourcen basierend auf vorkonfigurierte Vorlagen ([Governance und Compliance](./Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md#Sicherheit-und-Governance-in-der-Cloud))
-- Überwachen der Integrität von Ressourcen (Sicherheit und Governance)
-- Echtzeitinformation durch konfigurierte Warnungen (Kosten)
+- Überwachen der Integrität von Ressourcen ([Governance und Compliance](./Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md#Sicherheit-und-Governance-in-der-Cloud)
+- Echtzeitinformation durch konfigurierte Warnungen ([Kosten](./Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md#Kosten))
 
 #### Verwaltung in der Cloud
 
@@ -99,10 +99,19 @@ Es gibt 2 Verwaltungsarten für das Cloud-Computing. *Verwaltung der Cloud* und 
 - Powershell
 
 ### Wissenscheck
+
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
 ![3.Wissenscheck](../ressources/3_Wissensbeuurteilung.png)
 
+
+### Kurze Reflexion
+
+Ich hatte in diesem Learning-Path Modul etwas mühe den Begriff Governance zu verstehen. Dadurch, dass ich mich mir die Informationen nicht nur im Learning-Path geholt habe, sondern auch anderer Informationsquellen berücksichtigt habe, verstehe ich jetzt den Begriff. Ausserdem habe ich öfter die Vertikale - und Horizontale Skalierung. 
+
+Dazu habe ich mir folgende Eselsbrücke angeeignet: 
+Vertikale Skalierung braucht es bei einem Leistungspeak (CPU und RAM Auslastung gehen nach oben - vertikal)
+Horizontale Skalierung braucht es bei einer unerwarteten Auslastung und es müssen mehr virtuelle Maschinen oder Container "nebeneinander" bereitgestellt werden (mehr Ressourcen nebeneinander - horizontal).
 
 ## Inhaltsverzeichnis
 
