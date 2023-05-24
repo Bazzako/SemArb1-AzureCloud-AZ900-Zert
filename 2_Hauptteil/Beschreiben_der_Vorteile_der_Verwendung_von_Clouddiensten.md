@@ -85,8 +85,8 @@ Es gibt 2 Verwaltungsarten für das Cloud-Computing. *Verwaltung der Cloud* und 
 #### Verwaltung der Cloud
 
 *Verwaltung der Cloud* bedeutet grundsätzlich, dass man die Ressourcen, welche man in der Cloud zur Verfügung hat, verwalten kann. Hier sind die Themen, welche in diesem Kapitel beschrieben wurden gemeint:
-- Skalierung der Ressourcen (Hochverfügbarkeit und Skalierbarkeit in der Cloud)
-- Automatisiertes bereitstellen von Ressourcen basierend auf vorkonfigurierte Vorlagen (Governance und Compliance)
+- Skalierung der Ressourcen ([Hochverfügbarkeit und Skalierbarkeit in der Cloud](./Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md#Skalierbarkeit))
+- Automatisiertes bereitstellen von Ressourcen basierend auf vorkonfigurierte Vorlagen ([Governance und Compliance](./Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md#Sicherheit-und-Governance-in-der-Cloud))
 - Überwachen der Integrität von Ressourcen (Sicherheit und Governance)
 - Echtzeitinformation durch konfigurierte Warnungen (Kosten)
 
