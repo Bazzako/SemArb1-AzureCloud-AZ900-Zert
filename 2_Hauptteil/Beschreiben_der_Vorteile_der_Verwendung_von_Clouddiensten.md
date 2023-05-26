@@ -1,6 +1,7 @@
 ## Vorteile der Verwendung von Clouddiensten
 
-Das Thema Vorteile der Verwendung von Clouddiensten enthält einige Punkte, welche ich noch nicht kannte, weshalb ich die zu behandelnden Themen hier aufliste:
+Das Thema *Vorteile der Verwendung von Clouddiensten* enthält einige Punkte, welche ich noch nicht kannte, weshalb ich die zu behandelnden Themen hier aufliste:
+
 -   Vorteile der Hochverfügbarkeit und Skalierbarkeit in der Cloud
 -   Vorteile der Zuverlässigkeit und Vorhersagbarkeit in der Cloud
 -   Vorteile der Sicherheit und Governance in der Cloud
@@ -33,7 +34,7 @@ Bei der horizontalen Skalierung werden weitere Container oder virtuelle Maschine
 
 #### Zuverlässigkeit
 
-Die Zuverlässigkeit wird seitens Mircosoft via Georedundanz und der verschiedenen availability zone gewährleistet. 
+Die Zuverlässigkeit wird seitens Microsoft via Georedundanz und der verschiedenen availability zone gewährleistet. 
 
 #### Vorhersagbarkeit
 
