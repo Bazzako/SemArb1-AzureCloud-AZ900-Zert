@@ -1,6 +1,6 @@
 ## Beschreiben der wichtigsten Architekturkomponenten von Azure
 
-Was Microsoft Azure ist, habe ich bereits in der [hier](../1_Einleitung/Microsoft_Azure.md) in der Einleitung beschrieben. Das ganze Thema *Architekturkomponenten von Azure* kannte ich noch nicht, weshalb ich die gelernten Themen hier aufliste: 
+Was Microsoft Azure ist, habe ich bereits [hier](../1_Einleitung/Microsoft_Azure.md) in der der Einleitung beschrieben. Das ganze Thema *Architekturkomponenten von Azure* kannte ich noch nicht, weshalb ich die gelernten Themen hier aufliste: 
 
 -  Azure regions, region pairs, and sovereign regions
 -  Availability Zones
