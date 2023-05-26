@@ -2,10 +2,10 @@
 
 Das Thema *Vorteile der Verwendung von Clouddiensten* enthält einige Punkte, welche ich noch nicht kannte, weshalb ich die zu behandelnden Themen hier aufliste:
 
--   Vorteile der Hochverfügbarkeit und Skalierbarkeit in der Cloud
--   Vorteile der Zuverlässigkeit und Vorhersagbarkeit in der Cloud
--   Vorteile der Sicherheit und Governance in der Cloud
--   Vorteile der Verwaltbarkeit in der Cloud
+-  Hochverfügbarkeit und Skalierbarkeit in der Cloud
+-  Zuverlässigkeit und Vorhersagbarkeit in der Cloud
+-  Sicherheit und Governance in der Cloud
+-  Verwaltbarkeit in der Cloud
 
 Ich werde die neu erlernten Themen zusammenfassen und am Ende eine kurze Reflexion über das gelernte schreiben.
 

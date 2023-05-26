@@ -50,7 +50,7 @@ Da mir die Szenarien im Learning-Path nicht ausgereicht haben, habe ich ChatGPT 
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
-![4. Wissensbeurteilung](../ressources/Wissensbeuurteilung_Clouddiensttypen.png)
+![4. Wissensbeurteilung](../ressources/Wissensbeurteilung_Clouddiensttypen.png)
 
 ### Kurze Reflexion
 
