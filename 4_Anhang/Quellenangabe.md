@@ -3,6 +3,12 @@
 ### IaaS,PaaS und SaaS (Shared Responsibility Model)
 [Beschreiben des Shared Responsibility-Modells - Training | Microsoft Learn](https://learn.microsoft.com/de-de/training/modules/describe-cloud-compute/4-describe-shared-responsibility-model)
 
+### Availability-Zone
+[Beschreiben der physischen Infrastruktur von Azure - Training | Microsoft Learn](https://learn.microsoft.com/de-de/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure)
+
+### Region Pairs
+https://learn.microsoft.com/de-de/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure
+
 ## Links zu diversem
 
 ### Tabelle der verschiedenen Cloudmodelle
