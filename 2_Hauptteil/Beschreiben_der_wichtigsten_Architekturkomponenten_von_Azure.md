@@ -8,7 +8,7 @@ Was Microsoft Azure ist, habe ich bereits [hier](../1_Einleitung/Microsoft_Azure
 -  Region pairs
 -  Sovereign regions
 -  Azure management infrastructure
--  Azure resources and Resource
+-  Azure resources and Resource groups
 -  subscriptions
 -  management groups
 -  the hierarchy of resource groups, subscriptions, and management groups
@@ -47,9 +47,17 @@ Azure bietet noch sogenannte *Sovereign Region* oder unabhängige Regionen, welc
 
 ### Azure management infrastructure
 
-*Azure management infrastructure*,  umfasst wie der Name schon sagt, alle Azure-Ressourcen sowie Ressourcengruppen, Abonnements und Konten.
+*Azure management infrastructure*, umfasst wie der Name schon sagt, alle Azure-Ressourcen sowie Ressourcengruppen, Abonnements und Konten.
 
-#### Azure resources and Resource
+#### Azure ressources and Resource groups
+
+Eine Ressource ist in Azure ein Grundbaustein. Alles was bereitgestellt wird ist eine Ressource, wie z.B. VM's, Datenbanken, Services, virtuelle Netzwerke usw.
+
+Um eine Ressource bereitstellen zu können müssen diese erst einer Ressourcengruppen zugewiesen werden. Eine Ressourcengruppe kann mehrere Ressourcen enthalten. Eine Ressource kann aber nur einmal in einer Ressourcengruppe vorkommen. Wichtig ist zu beachten. dass alles Anpassungen auf die Ressourcengruppe auch Einfluss auf die darin gehörige Ressource hat. Wenn man z.B die Ressourcengruppe löscht, löscht man auch automatisch alle darin enthaltenen Ressourcen. Das gleiche Prinzip gilt für Berechtigungen.
+
+#### Subscriptions
+
+
 
 
 ## Inhaltsverzeichnis
