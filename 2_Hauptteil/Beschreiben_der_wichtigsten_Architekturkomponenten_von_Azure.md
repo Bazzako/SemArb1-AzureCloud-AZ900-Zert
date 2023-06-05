@@ -14,6 +14,8 @@ Was Microsoft Azure ist, habe ich bereits [hier](../1_Einleitung/Microsoft_Azure
 -  the hierarchy of resource groups, subscriptions, and management groups
 
 Die Fachbegriffe habe ich jetzt Englisch dokumentiert, damit ich es an der Zertifizierung einfacher habe.
+
+Am Schluss der Dokumentation findet man noch ein Praxisbeispiel zur Erstellung einer Ressource in Azure
  
 ### Azure physical infrastructure
 
@@ -37,7 +39,7 @@ Zur Veranschaulichung folgendes Bild:
 
 Die meisten *Regions* werden mit anderen *Regions* zu einem *Region Pair* zusammengeführt. Dafür müssen die *Regions* mindestens 300km voneinander entfernt und in der gleichen Geografie (z.B. USA, Europa, Asien) liegen. Die *Region Pairs* können gewissermassen als Georedundanz genutzt werden. Im Falle einer Naturkatastrophe in einer *Region* können die replizierten Ressourcen in der anderen *Region* des *Region Pairs* als Failover automatisch weiter betrieben werden. Wichtig ist hierbei aber zu beachten, dass Azure nicht automatisch alle Azure-Dienste oder Daten repliziert. Es liegt im Interesse des Konsumenten, seine Daten und Dienste über eine regionsübergreifende replizieren *Region* zu replizieren.
 
-Folgendes Beispielbild zeigt eine solch mögliches *Region Pair*
+Folgendes Beispielbild zeigt eine solch mögliches *Region Pair*:
 ![Region Pairs](../ressources/region-pairs.png)
 [Quelle](../4_Anhang/Quellenangabe#Region-Pairs)
 
@@ -51,13 +53,51 @@ Azure bietet noch sogenannte *Sovereign Region* oder unabhängige Regionen, welc
 
 #### Azure ressources and Resource groups
 
-Eine Ressource ist in Azure ein Grundbaustein. Alles was bereitgestellt wird ist eine Ressource, wie z.B. VM's, Datenbanken, Services, virtuelle Netzwerke usw.
+Eine Ressource ist in Azure ein Grundbaustein. Alles was bereitgestellt wird, ist eine Ressource, wie z.B. VM's, Datenbanken, Services, virtuelle Netzwerke usw.
 
-Um eine Ressource bereitstellen zu können müssen diese erst einer Ressourcengruppen zugewiesen werden. Eine Ressourcengruppe kann mehrere Ressourcen enthalten. Eine Ressource kann aber nur einmal in einer Ressourcengruppe vorkommen. Wichtig ist zu beachten. dass alles Anpassungen auf die Ressourcengruppe auch Einfluss auf die darin gehörige Ressource hat. Wenn man z.B die Ressourcengruppe löscht, löscht man auch automatisch alle darin enthaltenen Ressourcen. Das gleiche Prinzip gilt für Berechtigungen.
+Um eine Ressource bereitstellen zu können, müssen diese erst einer Ressourcengruppe zugewiesen werden. Eine Ressourcengruppe kann mehrere Ressourcen enthalten. Eine Ressource kann aber nur einmal in einer Ressourcengruppe vorkommen. Wichtig ist zu beachten, dass alle Anpassungen auf die Ressourcengruppe auch Einfluss auf die darin gehörige Ressource hat. Wenn man z.B die Ressourcengruppe löscht, löscht man auch automatisch alle darin enthaltenen Ressourcen. Das gleiche Prinzip gilt für Berechtigungen.
 
 #### Subscriptions
 
+Azure *Subscribtions* ist eine Einheit für die Verwaltung, Skalierung und Abrechnung. Damit man Azure benutzen kann, ist ein Abonnement (*Subscription*) erforderlich. Ein Abonnement bietet authentifizierten und autorisierten Zugriff auf Azure-Produkte und -Dienste. Ein Konto kann mehrere *Subscriptions* umfassen.
+Über Azure *Subscribtions* können Grenzen für Azure Produlte, Dienst und Ressourcen definiert werden. Azure bietet zwei Arten von Abonnementgrenzen:
 
+- Billing boundary:
+	Dieser *Subscribtiontyp* biete die Möglichkeit, verschieden Rechnungen für verschiedene Accounts zu generieren, welche Azure benutzen. Somit können z.B. die Kosten von verschiedenen Abteilungen auseinander gehalten werden
+
+- Access control boundary:
+	Hier werden access-management policies auf dem *Subscriptionlevel* gesteuert. Somit erhalten verschiedene Abteilungen verschieden Zugriffsberechtigungen auf Azure.
+
+#### Management groups
+
+Die Management groups verwalten *Subscriptiontyp* übergreifend *Subscriptions*. Alle *Subscriptions* erhalten innerhalb einer *management group* erben automatisch die Bedingungen, die auf die *management group* angewandt wurde. Genau so erben Ressourcengruppen von *Subscriptions* und Ressources von Ressourcengruppen.
+
+### Praxisbeispiel Ressourcenerstellung
+
+Alles in allem ist es ziemlich einfach, eine Ressource zu erstellen.
+
+Als Erstes meldet man sich https://portal.azure.com an. Dann wählt man *Resource groups*.
+
+![create_ressource_group](../ressources/create_ressource_group.png)
+
+Dann erstellt man eine neue *Recource group*
+![Ressourcegruppe](../ressources/create_ressource_group2.png)
+
+ich habe meine Ressourcengruppe wie folgt konfiguriert, wobei die Subscription unsere Schul-Subscription ist:
+![Ressourcengruppe](../ressources/create_ressource_group_region.png)
+
+In dieser Ressourcengruppe habe ich dann eine neuen Service erstellt. Ich habe mich für eine virtuelle Maschine entschieden.
+![Virtual Maschine](../ressources/Virutal_maschine.png)
+
+Ich habe für den Test alle Einstellungen auf Default gelassen und der Maschine einen Namen gegeben. Azure hat nun die nötigen Ressourcen für meinen Service automatisch hinzugefügt.
+
+![Ressource](../ressources/create_ressource_service.png)
+
+### Wissenscheck
+
+Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
+
+![Wissenscheck](../ressources/Wissensbeurteilung_Azurearchitektur.png)
 
 
 ## Inhaltsverzeichnis
