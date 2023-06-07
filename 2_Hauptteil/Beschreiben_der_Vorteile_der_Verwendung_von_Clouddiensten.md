@@ -1,11 +1,6 @@
 ## Vorteile der Verwendung von Clouddiensten
 
-Das Thema *Vorteile der Verwendung von Clouddiensten* enthält einige Punkte, welche ich noch nicht kannte, weshalb ich die zu behandelnden Themen hier aufliste:
-
--  Hochverfügbarkeit und Skalierbarkeit in der Cloud
--  Zuverlässigkeit und Vorhersagbarkeit in der Cloud
--  Sicherheit und Governance in der Cloud
--  Verwaltbarkeit in der Cloud
+Das Thema *Vorteile der Verwendung von Clouddiensten* enthält einige Punkte, welche ich noch nicht kannte, weshalb ich die gelernten Themen zusammengefasst habe
 
 Ich werde die neu erlernten Themen zusammenfassen und am Ende eine kurze Reflexion über das gelernte schreiben.
 
