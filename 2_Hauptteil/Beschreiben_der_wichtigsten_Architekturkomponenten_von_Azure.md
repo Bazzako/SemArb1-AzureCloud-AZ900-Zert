@@ -14,7 +14,6 @@ Die physische Infrastruktur von Azure ist konzeptionell vergleichbar mit einem U
 
 In einer *Region*, welche ein geografischer Bereich auf der Erde ist, befindet sich mindestens ein, möglicherweise jedoch mehrere, Rechenzentren. Diese sind nicht weit voneinander entfernt über ein Netzwerk mit geringer Latenz miteinander verbunden. Ressourcen werden von Azure innerhalb jeder Region intelligent zugewiesen und kontrolliert, somit wird gewährleistet, dass die Workload's gleichmässig verteilt werden.
 
-
 #### Availability Zones
 
 *Availability Zones* sind in einer *Region* physisch getrennte Rechenzentren. Jede *Availability Zones* enthält meistens 1-3 Rechenzentren, mindestens jedoch ein Rechenzentrum, die über eine eigene Stromversorgung, Kühlung und Netzwerkbetriebe verfügen. Diese sind als Isolationsgrenzen eingerichtet. Falls eine *Availability Zones* aussteigt, sind die anderen immer noch verfügbar. *Availability Zones* sind mit privaten Glasfasernetzwerke miteinander verbunden. Momentan werden *Availability Zones* nicht in allen *Regions* unterstützt.
@@ -22,7 +21,6 @@ In einer *Region*, welche ein geografischer Bereich auf der Erde ist, befindet s
 Zur Veranschaulichung folgendes Bild:
 ![Availability Zone](../ressources/availability-zones.png)
 [Quelle](../4_Anhang/Quellenangabe#Availability-Zones)
-
 
 #### Region Pairs
 
@@ -65,7 +63,7 @@ Die Management groups verwalten *Subscriptiontyp* übergreifend *Subscriptions*.
 
 Alles in allem ist es ziemlich einfach, eine Ressource zu erstellen.
 
-Als Erstes meldet man sich https://portal.azure.com an. Dann wählt man *Resource groups*.
+Als Erstes meldet man sich https://portal.azure.com an. Dann wählt man *Resource groups*
 
 ![create_ressource_group](../ressources/create_ressource_group.png)
 
@@ -75,7 +73,7 @@ Dann erstellt man eine neue *Recource group*
 ich habe meine Ressourcengruppe wie folgt konfiguriert, wobei die Subscription unsere Schul-Subscription ist:
 ![Ressourcengruppe](../ressources/create_ressource_group_region.png)
 
-In dieser Ressourcengruppe habe ich dann eine neuen Service erstellt. Ich habe mich für eine virtuelle Maschine entschieden.
+In dieser Ressourcengruppe habe ich dann einen neuen Service erstellt. Ich habe mich für eine virtuelle Maschine entschieden.
 ![Virtual Maschine](../ressources/Virutal_maschine.png)
 
 Ich habe für den Test alle Einstellungen auf Default gelassen und der Maschine einen Namen gegeben. Azure hat nun die nötigen Ressourcen für meinen Service automatisch hinzugefügt.
@@ -88,6 +86,9 @@ Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit de
 
 ![Wissenscheck](../ressources/Wissensbeurteilung_Azurearchitektur.png)
 
+### Kurze Reflexion
+
+Ich hatte, etwas mühe die Subscriptions zu verstehen und habe dort etwas länger gebraucht. Ich musste die Dokumentation des Learning-Paths mehrmals durchlesen, um mir ein Bild machen zu können. Grundsätzlich fand ich das ganze Thema *Azure management infrastructure* nicht ganz einfach.
 
 ## Inhaltsverzeichnis
 

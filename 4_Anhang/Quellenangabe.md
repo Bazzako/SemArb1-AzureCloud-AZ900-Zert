@@ -9,6 +9,9 @@
 ### Region Pairs
 https://learn.microsoft.com/de-de/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure
 
+### Azure-Container
+[Docker vs Virtual Machines (VMs) : A Practical Guide to Docker Containers and VMs (weave.works)](https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms)
+
 ## Links zu diversem
 
 ### Tabelle der verschiedenen Cloudmodelle
