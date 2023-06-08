@@ -20,7 +20,7 @@ Hier werden VM's gruppiert, welche eine gemeinsame Strom und Netzwerkverbindung 
 
 Es fallen hier keine weiteren Kosten an. Man bezahlt nur für die VM-Instanz.
 
-#### Azure-Container
+### Azure-Container
 
 Eine VM virtualisiert Hardware, wobei ein Container das Betriebssystem virtualisiert.
 Ein Container bündelt (containisieren) eine App und ihre Abhängigkeiten und stellen diese als eine Einheit auf einem Container Host bereit. Es können mehrere Container auf einem einzelnen physischen oder virtuellen Host ausgeführt werden. Ein mögliches Beispiel wäre eine 
@@ -37,15 +37,15 @@ Grundsätzlich ist zu sagen, wenn man die volle Kontrolle über die Umgebung ben
 
 Container können mittels *Azure Container Instances* (PaaS) hochgeladen und dann durch den Dienst ausgeführt werden.
 
-#### Azure Functions
+### Azure Functions
 
 Als Alternative zu VM's und Container bietet Azure noch die serverlose Computeoption, *Azure Functions* an. Anders als bei VM's und Containers werden Funktionen durch Ereignisse ausgelöst, sodass keine Ressourcen bereitgestellt werden müssen, wenn kein Ereignis vorhanden ist. Die Wartung von Serverinfrastrukturen fällt somit komplett weg.
 
-#### Azure App Services
+### Azure App Services
 
 *Azure App Services* ermöglicht das Erstellen und Hosten von Web-Apps, Hintergrundaufträgen und RESTful-API's in verschiedenster Programmiersprachen, ohne dass man dafür eine Infrastruktur verwalten muss. Der Dienst bietet ausserdem automatisches Skalierung und hohe Verfügbarkeit. *App Services* unterstütz Windows und Linux. Es basiert auf HTTP
 
-#### Communcate between Azure resources
+### Communcate between Azure resources
 
 Es gibt zwei Möglichkeiten, die Kommunikation zwischen Azure ressources zu ermöglichen.
 
@@ -53,11 +53,11 @@ Es gibt zwei Möglichkeiten, die Kommunikation zwischen Azure ressources zu erm�
 
 - Mithilfe von Dienstendpunkten kann eine Verbindung mit anderen Azure-Ressourcentypen herstellen werden, z.B. Azure SQL-Datenbanken und Speicherkonten. Bei diesem Ansatz können mehrere Azure-Ressourcen mit virtuellen Netzwerken verknüpfen, um die Sicherheit zu erhöhen und ein optimales Routing zwischen Ressourcen sichergestellt werden.
 
-#### Connect virtual networks
+### Connect virtual networks
 
 Virtuelle Netzwerke können mittels *Peering* miteinander verknüpft werden. Mit *Peering* wird eine direkte Verbindung von zwei Netzwerken ermöglicht. Der Datenverkehr ist dabei immer privat und durchläuft das Microsoft-Backbone-Netzwerk, aber nie das öffentliche Internet. Durch *Peering* wird ermöglicht, dass Ressourcen in einzelnen virtuellen Netzwerken, miteinander kommunizieren können. Dadurch, dass sich die virtuellen Netzwerke in unterschiedlichen Regionen befinden können, kann man so über Azure ein globales, miteinander verbundenes, Netzwerk erstellen.
 
-#### Azure ExpressRoute
+### Azure ExpressRoute
 
 Mit Azure ExpressRoute können alle lokalen Netzwerke über eine private Verbindung, die von einem Konnektivitätsanbieter bereitgestellt wird, auf die Cloud von Microsoft erweitert werden. Diese Verbindung wird als ExpressRoute-Leitung bezeichnet.
 
