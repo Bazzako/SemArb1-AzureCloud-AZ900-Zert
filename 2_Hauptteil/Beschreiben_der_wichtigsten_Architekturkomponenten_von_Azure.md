@@ -29,7 +29,9 @@ Zur Veranschaulichung folgendes Bild:
 Die meisten *Regions* werden mit anderen *Regions* zu einem *Region Pair* zusammengeführt. Dafür müssen die *Regions* mindestens 300km voneinander entfernt und in der gleichen Geografie (z.B. USA, Europa, Asien) liegen. Die *Region Pairs* können gewissermassen als Georedundanz genutzt werden. Im Falle einer Naturkatastrophe in einer *Region* können die replizierten Ressourcen in der anderen *Region* des *Region Pairs* als Failover automatisch weiter betrieben werden. Wichtig ist hierbei aber zu beachten, dass Azure nicht automatisch alle Azure-Dienste oder Daten repliziert. Es liegt im Interesse des Konsumenten, seine Daten und Dienste über eine regionsübergreifende replizieren *Region* zu replizieren.
 
 Folgendes Beispielbild zeigt eine solch mögliches *Region Pair*:
+
 ![Region Pairs](../ressources/region-pairs.png)
+
 [Quelle](../4_Anhang/Quellenangabe#Region-Pairs)
 
 #### Sovereign Region
@@ -74,9 +76,11 @@ Dann erstellt man eine neue *Recource group*
 ![Ressourcegruppe](../ressources/create_ressource_group2.png)
 
 ich habe meine Ressourcengruppe wie folgt konfiguriert, wobei die Subscription unsere Schul-Subscription ist:
+
 ![Ressourcengruppe](../ressources/create_ressource_group_region.png)
 
 In dieser Ressourcengruppe habe ich dann einen neuen Service erstellt. Ich habe mich für eine virtuelle Maschine entschieden.
+
 ![Virtual Maschine](../ressources/Virutal_maschine.png)
 
 Ich habe für den Test alle Einstellungen auf Default gelassen und der Maschine einen Namen gegeben. Azure hat nun die nötigen Ressourcen für meinen Service automatisch hinzugefügt.
