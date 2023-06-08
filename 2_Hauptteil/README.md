@@ -6,13 +6,13 @@ Im Hauptteil werden Lernergebnisse, Probleme und Praxisbeispiele detailliert bes
 
 [2.1 Beschreiben des Cloud Computings](./Beschreiben_des_Cloud_Computings.md)
 
-[2.2 Beschreiben der Vorteile der Verwendung von Clouddiensten](Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md)
+[2.2 Beschreiben der Vorteile der Verwendung von Clouddiensten](./Beschreiben_der_Vorteile_der_Verwendung_von_Clouddiensten.md)
 
 [2.3 Grundlegendes zu Clouddiensttypen](./Grundlegendes_zu_Clouddiensttypen.md)
 
 [2.4 Beschreiben der wichtigsten Architekturkomponenten von Azure](./Beschreiben_der_wichtigsten_Architekturkomponenten_von_Azure.md)
 
-[2.5 Beschreiben von Azure Compute- und Azure-Netzwerkdiensten](Beschreiben_von_Azure_Compute-_und_Azure_Netzwerkdiensten.md)
+[2.5 Beschreiben von Azure Compute- und Azure-Netzwerkdiensten](./Beschreiben_von_Azure_Compute-_und_Azure_Netzwerkdiensten.md)
 
 [2.6 Grundlegendes zu Azure-Speicherdiensten](./Grundlegendes_zu_Azure-Speicherdiensten.md)
 
