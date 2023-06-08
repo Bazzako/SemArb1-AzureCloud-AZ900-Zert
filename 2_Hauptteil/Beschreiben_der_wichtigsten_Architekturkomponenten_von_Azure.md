@@ -19,7 +19,6 @@ In einer *Region*, welche ein geografischer Bereich auf der Erde ist, befindet s
 *Availability Zones* sind in einer *Region* physisch getrennte Rechenzentren. Jede *Availability Zones* enthält meistens 1-3 Rechenzentren, mindestens jedoch ein Rechenzentrum, die über eine eigene Stromversorgung, Kühlung und Netzwerkbetriebe verfügen. Diese sind als Isolationsgrenzen eingerichtet. Falls eine *Availability Zones* aussteigt, sind die anderen immer noch verfügbar. *Availability Zones* sind mit privaten Glasfasernetzwerke miteinander verbunden. Momentan werden *Availability Zones* nicht in allen *Regions* unterstützt.
 
 Zur Veranschaulichung folgendes Bild:
-
 ![Availability Zone](../ressources/availability-zones.png)
 [Quelle](../4_Anhang/Quellenangabe#Availability-Zones)
 
