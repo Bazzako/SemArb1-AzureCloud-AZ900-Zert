@@ -19,7 +19,9 @@ In einer *Region*, welche ein geografischer Bereich auf der Erde ist, befindet s
 *Availability Zones* sind in einer *Region* physisch getrennte Rechenzentren. Jede *Availability Zones* enthält meistens 1-3 Rechenzentren, mindestens jedoch ein Rechenzentrum, die über eine eigene Stromversorgung, Kühlung und Netzwerkbetriebe verfügen. Diese sind als Isolationsgrenzen eingerichtet. Falls eine *Availability Zones* aussteigt, sind die anderen immer noch verfügbar. *Availability Zones* sind mit privaten Glasfasernetzwerke miteinander verbunden. Momentan werden *Availability Zones* nicht in allen *Regions* unterstützt.
 
 Zur Veranschaulichung folgendes Bild:
+
 ![Availability Zone](../ressources/availability-zones.png)
+
 [Quelle](../4_Anhang/Quellenangabe#Availability-Zones)
 
 #### Region Pairs
@@ -68,6 +70,7 @@ Als Erstes meldet man sich https://portal.azure.com an. Dann wählt man *Resourc
 ![create_ressource_group](../ressources/create_ressource_group.png)
 
 Dann erstellt man eine neue *Recource group*
+
 ![Ressourcegruppe](../ressources/create_ressource_group2.png)
 
 ich habe meine Ressourcengruppe wie folgt konfiguriert, wobei die Subscription unsere Schul-Subscription ist:
