@@ -31,7 +31,7 @@ Entwickler können Container verwenden, um ihre Entwicklungsumgebungen zu isolie
 
 Zur Veranschaulichung habe ich noch folgendes Bild
 ![Container vs VM](../ressources/containers-vs-virtual-machines.jpg)
-[Quelle](./4_Anhang/Quellenangabe#Azure-Container)
+[Quelle](../4_Anhang/Quellenangabe.md#Azure-Container)
 
 Grundsätzlich ist zu sagen, wenn man die volle Kontrolle über die Umgebung benötigt und nicht sehr flexibel sein muss, sollte man sich für VM's entscheiden. Wenn nicht, könnte die Portabilität, Leistungsmerkmale und Verwaltungsfunktionen von Container die besser Wahl sein.
 
