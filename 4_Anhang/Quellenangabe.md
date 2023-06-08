@@ -17,6 +17,9 @@ https://learn.microsoft.com/de-de/training/modules/describe-core-architectural-c
 ### Tabelle der verschiedenen Cloudmodelle
 [Grundlegendes zu Cloudmodellen - Training | Microsoft Learn](https://learn.microsoft.com/de-de/training/modules/describe-cloud-compute/5-define-cloud-models)
 
+### Tabelle der Kontospeichertypen
+[Beschreiben von Azure-Speicherkonten - Training | Microsoft Learn](https://learn.microsoft.com/de-de/training/modules/describe-azure-storage-services/2-accounts)
+
 ## Inhaltsverzeichnis
 
 [4. Anhang](./README.md)
