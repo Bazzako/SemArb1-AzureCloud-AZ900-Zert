@@ -49,6 +49,7 @@ Zur Veranschaulichung noch folgendes Bild
 Bei Availability Zone-verfügbaren Region's repliziert der *zone-redundant storage* (ZRS) die Azure Storage-Daten synchron in drei Azure Availability Zone's in der *primary region*. Der ZRS bietet somit eine Dauerhaftigkeit von mindestens zwölf Neunen -> 99,9999999999 % für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr an. Durch ZRS kann bei einem Ausfall von einer Availability Zone weiterhin mit Lese- und Schreibvoränge zugegriffen werden.
 
 Zur Veranschaulichung noch folgendes Bild
+
 ![Zone redunancy](../ressources/zone-redundant-storage.png)
 
 [Quelle](../4_Anhang/Quellenangabe.md#Zone-redundancy)
