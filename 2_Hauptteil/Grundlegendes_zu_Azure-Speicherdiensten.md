@@ -32,11 +32,11 @@ Diese Tabelle beschreibt diese Optionen noch etwas mehr:
 
 ### Redundancy in the primary region
 
-Daten in einem Azure Storage-Konto werden immer dreimal in der primären Region repliziert. Azure Storage bietet mit dem *locally redundant storage* (LRS) und dem *zone-redundant storage* (ZRS) zwei Optionen für die Replikation der Daten in der primären Region an.
+Daten in einem Azure Storage-Konto werden immer dreimal in der primären Region repliziert. Azure Storage bietet mit dem *locally redundant storage* (LRS) und dem *zone-redundant storage* (ZRS) zwei Optionen für die Replikation der Daten in der *primary region* an.
 
 #### Locally redundant storage
 
-Bei der *locally redundant storage* (LRS) werden die Daten in einem einzelnen Rechenzentrum in der *primary region* repliziert. Dies ist die kostengünstigste Redundanzoption und bietet im Vergleich zu den anderen Optionen die geringste Dauerhaftigkeit. Jedoch ist besteht grosse Gefahr, dass bei einer Naturkatastrophe und Ausfall des gesamten RZ's, die ganzen Daten inkl. Replikationen verloren gehen.
+Bei der *locally redundant storage* (LRS) werden die Daten in einem einzelnen Rechenzentrum in der *primary region* repliziert. Dies ist die kostengünstigste Redundanzoption und bietet im Vergleich zu den anderen Optionen die geringste Dauerhaftigkeit, diese beträgt mindestens elf Neunen -> 99,999999999% für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr. Es besteht jedoch grosse Gefahr, dass bei einer Naturkatastrophe und Ausfall des gesamten RZ's, die ganzen Daten inkl. Replikationen verloren gehen.
 
 Zur Veranschaulichung noch folgendes Bild
 
@@ -46,8 +46,12 @@ Zur Veranschaulichung noch folgendes Bild
 
 #### Zone-redundant storage
 
+Bei Availability Zone-verfügbaren Region's repliziert der *zone-redundant storage* (ZRS) die Azure Storage-Daten synchron in drei Azure Availability Zone's in der *primary region*. Der ZRS bietet somit eine Dauerhaftigkeit von mindestens zwölf Neunen -> 99,9999999999 % für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr an. Durch ZRS kann bei einem Ausfall von einer Availability Zone weiterhin mit Lese- und Schreibvoränge zugegriffen werden.
 
+Zur Veranschaulichung noch folgendes Bild
+![Zone redunancy](../ressources/zone-redundant-storage.png)
 
+[Quelle](../4_Anhang/Quellenangabe.md#Zone-redundancy)
 
 ## Inhaltsverzeichnis
 
