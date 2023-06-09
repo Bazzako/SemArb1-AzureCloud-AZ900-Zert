@@ -36,6 +36,13 @@ Daten in einem Azure Storage-Konto werden immer dreimal in der primären Region 
 
 #### Locally redundant storage
 
+Bei der *locally redundant storage* (LRS) werden die Daten in einem einzelnen Rechenzentrum in der *primary region* repliziert. Dies ist die kostengünstigste Redundanzoption und bietet im Vergleich zu den anderen Optionen die geringste Dauerhaftigkeit. Jedoch ist besteht grosse Gefahr, dass bei einer Naturkatastrophe und Ausfall des gesamten RZ's, die ganzen Daten inkl. Replikationen verloren gehen.
+
+Zur Veranschaulichung noch folgendes Bild
+
+![Locally redunancy](../ressources/locally-redundant-storage.png)
+
+[Quelle](../4_Anhang/Quellenangabe.md#Locally-redundancy)
 
 #### Zone-redundant storage
 

@@ -12,6 +12,9 @@ https://learn.microsoft.com/de-de/training/modules/describe-core-architectural-c
 ### Azure-Container
 [Docker vs Virtual Machines (VMs) : A Practical Guide to Docker Containers and VMs (weave.works)](https://www.weave.works/blog/a-practical-guide-to-choosing-between-docker-containers-and-vms)
 
+### Locally redundancy
+[Describe Azure storage redundancy - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/3-redundancy)
+
 ## Links zu diversem
 
 ### Tabelle der verschiedenen Cloudmodelle
