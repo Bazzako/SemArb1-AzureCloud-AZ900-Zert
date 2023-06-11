@@ -1,3 +1,4 @@
+## Grundlegendes zu Azure-Speicherdiensten
 
 Vieles zum Thema *Azure-Speicherdienst* kannte ich noch nicht, weshalb ich die gelernten Themen zusammengefasst habe.
 
@@ -82,7 +83,7 @@ Zur Veranschaulichung noch folgendes Bild
 
 [Quelle](../4_Anhang/Quellenangabe.md#Geo-zone-redundant-storage)
 
-## Lesezugriff auf Daten in der secundary region
+### Lesezugriff auf Daten in der secundary region
 
 Standardmässig kann man auf die Daten in der *secondary region* erst dann zugreifen, wenn diese als Failover aktiv wird. Man kann diese Lesezugriff aber schon vorher mittels *read-access geo-redundant storage* (RA-GRS) oder *read-access geo-zone-redundant storage* (RA-GZRS) freischalten. Wichtig ist aber zu beachten, dass die Daten möglicherweise nicht den gleichen Datenstand durch die *Recovery Point Objectiv* (RPO) aufweisen. Die RPO gibt den Zeitpunkt an, auf den Daten wiederhergestellt werden können. Azure Storage weist normalerweise einen RPO-Wert von weniger als 15 Minuten auf.
 
