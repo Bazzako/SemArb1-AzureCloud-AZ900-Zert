@@ -18,6 +18,12 @@
 ### Zone redundancy
 [zone-redundant-storage-6dd46d22.png (503×501) (microsoft.com)](https://learn.microsoft.com/en-us/training/wwl-azure/describe-azure-storage-services/media/zone-redundant-storage-6dd46d22.png)
 
+### Geo-redundant storage
+[geo-redundant-storage-3432d558.png (731×371) (microsoft.com)](https://learn.microsoft.com/en-us/training/wwl-azure/describe-azure-storage-services/media/geo-redundant-storage-3432d558.png)
+
+### Geo-zone-redundant storage
+[geo-zone-redundant-storage-138ab5af.png (960×615) (microsoft.com)](https://learn.microsoft.com/en-us/training/wwl-azure/describe-azure-storage-services/media/geo-zone-redundant-storage-138ab5af.png)
+
 ## Links zu diversem
 
 ### Tabelle der verschiedenen Cloudmodelle

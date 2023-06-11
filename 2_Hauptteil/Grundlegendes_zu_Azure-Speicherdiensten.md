@@ -8,12 +8,12 @@ Ein Speicherkonto stellt einen eindeutigen Namespace für die Azure Storage-Date
 Beim Erstellen eines Speicherkontos muss man zunächst den Speicherkontotyp auswählen. Der Kontotyp bestimmt, welche Speicherdienste und Redundanzoptionen und hat Auswirkungen auf die Anwendungsfälle.
 Hier sind die möglichen Redundanzoptionen aufgelistet:
 
-- Lokal redundanter Speicher (LRS)
-- Georedundanter Speicher (GRS)
-- Georedundanter Speicher mit Lesezugriff (RA-GRS)
-- Zonenredundanter Speicher (ZRS)
-- Geozonenredundanter Speicher (GZRS)
-- Geozonenredundanter Speicher mit Lesezugriff (RA-GZRS)
+- Locally redundant storage (LRS)
+- Zone-redundant storage (ZRS)
+- Geo-redundant storage (GRS)
+- Geo-zone-redundant storage (GZRS)
+- Read-access geo-redundant storage (RA-GRS)
+- Read-access geo-zone-redundant storage (RA-GZRS)
 
 Diese Tabelle beschreibt diese Optionen noch etwas mehr:
 
@@ -34,7 +34,7 @@ Diese Tabelle beschreibt diese Optionen noch etwas mehr:
 
 Daten in einem Azure Storage-Konto werden immer dreimal in der primären Region repliziert. Azure Storage bietet mit dem *locally redundant storage* (LRS) und dem *zone-redundant storage* (ZRS) zwei Optionen für die Replikation der Daten in der *primary region* an.
 
-#### Locally redundant storage
+#### Locally redundant storage (LRS)
 
 Bei der *locally redundant storage* (LRS) werden die Daten in einem einzelnen Rechenzentrum in der *primary region* repliziert. Dies ist die kostengünstigste Redundanzoption und bietet im Vergleich zu den anderen Optionen die geringste Dauerhaftigkeit, diese beträgt mindestens elf Neunen -> 99,999999999% für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr. Es besteht jedoch grosse Gefahr, dass bei einer Naturkatastrophe und Ausfall des gesamten RZ's, die ganzen Daten inkl. Replikationen verloren gehen.
 
@@ -44,7 +44,7 @@ Zur Veranschaulichung noch folgendes Bild
 
 [Quelle](../4_Anhang/Quellenangabe.md#Locally-redundancy)
 
-#### Zone-redundant storage
+#### Zone-redundant storage (ZRS)
 
 Bei Availability Zone-verfügbaren Region's repliziert der *zone-redundant storage* (ZRS) die Azure Storage-Daten synchron in drei Azure Availability Zone's in der *primary region*. Der ZRS bietet somit eine Dauerhaftigkeit von mindestens zwölf Neunen -> 99,9999999999 % für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr an. Durch ZRS kann bei einem Ausfall von einer Availability Zone weiterhin mit Lese- und Schreibvoränge zugegriffen werden.
 
@@ -53,6 +53,42 @@ Zur Veranschaulichung noch folgendes Bild
 ![Zone redunancy](../ressources/zone-redundant-storage.png)
 
 [Quelle](../4_Anhang/Quellenangabe.md#Zone-redundancy)
+
+### Redundancy in a secondary region
+
+Fall der Bedarf da ist, Anwendungen oder Daten mit hoher Dauerhaftigkeit ablegen zu können, bietet Azure zusätzlich noch die Möglichkeit diese in eine *secondary region* zu kopieren. Wenn ein Speicherkonto erstellt wird, wählt man erst die *primary region* aus. Die gekoppelte *secondary region* basiert auf Azure-Regionspaaren und kann nicht geändert werden.
+
+Azure bietet zwei Möglichkeiten zum Kopieren der Anwendungen und Daten in die *secondary region*, *geo-redundant storage* (GRS) und *geo-zone-redundant storage* (GZRS).
+GRS ähnelt der Nutzung des LRS in zwei Regionen, und der GZRS ähnelt der Nutzung des ZRS in der primären und des LRS in der sekundären Region.
+Die Daten in der *secondary region* sind standardmässig für Lese- oder Schreibzugriff erst dann verfügbar, wenn ein Failover in die *secondary region* erfolgt. Nachdem das Failover abgeschlosse ist, wird aus der *secundary region* die *primary region*
+
+### Geo-redundant storage (GRS)
+
+GRS erstellt mit der Verwendung von LRS drei synchrone Kopien der Daten an einem einzigen physischen Standort in der *primary region*. Anschliessend werden diese Daten dann mithilfe von LRS asynchron an einen einzelnen phyischen Standort in der *secondary region* (Region pair) kopiert. Somit kann GRS eine Dauerhaftigkeit von mindestens 16 Neunen -> 99,99999999999999 % für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr bieten.
+
+Zur Veranschaulichung noch folgendes Bild
+
+![Geo-redundant storage](../ressources/geo-redundant-storage.png)
+
+[Quelle](../4_Anhang/Quellenangabe.md#Geo-redundant-storage)
+
+### Geo-zone-redundant storage (GZRS)
+
+Der *geo-zone-redundant storage* (GZRS) in eine Kombination aus *zone-redundant storage* (ZRS) und *geo-redundant storage (GRS)*. GZRS kombiniert somit die Hochverfügbarkeit durch die verfügbarkeitszonenübergreifende Redundanz mit dem Schutz vor regionalen Ausfällen. Somit kann GZRS eine Dauerhaftigkeit von mindestens 16 Neunen -> 99,99999999999999 % für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr bieten.
+
+Zur Veranschaulichung noch folgendes Bild
+
+![Geo-zone-redundant storage](../ressources/geo-zone-redundant-storage.png)
+
+[Quelle](../4_Anhang/Quellenangabe.md#Geo-zone-redundant-storage)
+
+## Lesezugriff auf Daten in der secundary region
+
+Standardmässig kann man auf die Daten in der *secondary region* erst dann zugreifen, wenn diese als Failover aktiv wird. Man kann diese Lesezugriff aber schon vorher mittels *read-access geo-redundant storage* (RA-GRS) oder *read-access geo-zone-redundant storage* (RA-GZRS) freischalten. Wichtig ist aber zu beachten, dass die Daten möglicherweise nicht den gleichen Datenstand durch die *Recovery Point Objectiv* (RPO) aufweisen. Die RPO gibt den Zeitpunkt an, auf den Daten wiederhergestellt werden können. Azure Storage weist normalerweise einen RPO-Wert von weniger als 15 Minuten auf.
+
+## Azure storage services
+
+
 
 ## Inhaltsverzeichnis
 
