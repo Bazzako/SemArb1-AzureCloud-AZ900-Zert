@@ -65,7 +65,7 @@ Die Daten in der *secondary region* sind standardmässig für Lese- oder Schreib
 
 ### Geo-redundant storage (GRS)
 
-GRS erstellt mit der Verwendung von LRS drei synchrone Kopien der Daten an einem einzigen physischen Standort in der *primary region*. Anschliessend werden diese Daten dann mithilfe von LRS asynchron an einen einzelnen phyischen Standort in der *secondary region* (Region pair) kopiert. Somit kann GRS eine Dauerhaftigkeit von mindestens 16 Neunen -> 99,99999999999999 % für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr bieten.
+GRS erstellt mit der Verwendung von *locally redundant storage* (LRS) drei synchrone Kopien der Daten an einem einzigen physischen Standort in der *primary region*. Anschliessend werden diese Daten dann mithilfe von LRS asynchron an einen einzelnen phyischen Standort in der *secondary region* (Region pair) kopiert. Somit kann GRS eine Dauerhaftigkeit von mindestens 16 Neunen -> 99,99999999999999 % für Azure Storage-Datenobjekte in einem Zeitraum von einem Jahr bieten.
 
 Zur Veranschaulichung noch folgendes Bild
 
@@ -89,7 +89,38 @@ Standardmässig kann man auf die Daten in der *secondary region* erst dann zugre
 
 ## Azure storage services
 
+Azure bietet folgende Storage-Plattformen als Datendienste:
 
+- Azure-Blobs
+- Azure Files
+- Azure-Queues
+- Azure-Disks
+
+### Blob storage
+
+*Azure Blob storage* ist ein cloudbasierter Speicherdienst, der für die Speicherung grosser Mengen, unstrukturierter Daten wie Bilder, Videos, Dokumente und Backups verwendet wird. *Blobs* sind nicht auf gängige Dateiformate beschränkt.
+
+Hier sind einige Beispiele für die Verwendung von *Azure Blob storage*:
+
+- Speichern von Bildern oder Dokumenten direkt für einen Browser
+- Speichern von Dateien für verteilten Zugriff
+- Video- und Audio-Streaming
+- Speichern von Daten für Sicherung und Wiederherstellung, Notfallwiederherstellung und Archivierung
+- Speichern von Daten für Analysen durch einen lokalen oder von Azure gehosteten Dienst
+
+### Zugreifen auf Blob storage
+
+Über die Protokolle HTTP und HTTPS kann man von überall auf der Welt auf die Daten, welche sich auf dem Blobspeicher befinden, zugreifen. Benutzer oder Clientanwendungen können über die Azure Storage-REST-API, URL's, Azure PowerShell, Azure CLI oder eine Azure Storage-Clientbibliothek auf den Blob's zugreifen.
+
+### Blob storage tiers
+
+Azure Storage bietet verschiedene Zugriffsebenen für den Blobspeicher an, welche es ermöglichen, Objektdaten auf kostengünstige Weise zu speichern.
+
+Azure bietet folgende *access tier's*:
+
+- Hot: Optimiert für das Speichern von Daten, auf die häufig zugegriffen wird (z. B. Bilder für Ihre Website).
+- Cool: Optimiert für Daten, auf die selten zugegriffen wird und die mindestens 30 Tage lang gespeichert werden (z. B. Rechnungen für Ihre Kunden).
+- Archive: Daten optimiert, auf die selten zugegriffen wird und die bei flexiblen Latenzanforderungen mindestens 180 Tage lang gespeichert werden (z. B. langfristige Sicherungen oder Jahressicherrungen.
 
 ## Inhaltsverzeichnis
 
