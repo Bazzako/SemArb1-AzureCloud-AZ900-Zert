@@ -63,7 +63,7 @@ Azure *Subscribtions* ist eine Einheit für die Verwaltung, Skalierung und Abrec
 
 Die Management groups verwalten *Subscriptiontyp* übergreifend *Subscriptions*. Alle *Subscriptions* erhalten innerhalb einer *management group* erben automatisch die Bedingungen, die auf die *management group* angewandt wurde. Genau so erben Ressourcengruppen von *Subscriptions* und Ressources von Ressourcengruppen.
 
-### Praxisbeispiel Ressourcenerstellung
+## Praxisbeispiel Ressourcenerstellung
 
 Alles in allem ist es ziemlich einfach, eine Ressource zu erstellen.
 

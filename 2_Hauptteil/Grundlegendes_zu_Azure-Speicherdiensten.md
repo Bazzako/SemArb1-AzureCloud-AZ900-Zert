@@ -118,9 +118,90 @@ Azure Storage bietet verschiedene Zugriffsebenen für den Blobspeicher an, welch
 
 Azure bietet folgende *access tier's*:
 
-- Hot: Optimiert für das Speichern von Daten, auf die häufig zugegriffen wird (z. B. Bilder für Ihre Website).
-- Cool: Optimiert für Daten, auf die selten zugegriffen wird und die mindestens 30 Tage lang gespeichert werden (z. B. Rechnungen für Ihre Kunden).
-- Archive: Daten optimiert, auf die selten zugegriffen wird und die bei flexiblen Latenzanforderungen mindestens 180 Tage lang gespeichert werden (z. B. langfristige Sicherungen oder Jahressicherrungen.
+- Hot: Optimiert für das Speichern von Daten, auf die häufig zugegriffen wird (z.B. Bilder für Ihre Website).
+- Cool: Optimiert für Daten, auf die selten zugegriffen wird und die mindestens 30 Tage lang gespeichert werden (z.B. Rechnungen für Ihre Kunden).
+- Archive: Daten optimiert, auf die selten zugegriffen wird und die bei flexiblen Latenzanforderungen mindestens 180 Tage lang gespeichert werden (z.B. langfristige Sicherungen oder Jahressicherungen).
+
+Was ich noch für wichtig empfinde, sind folgende Fakten oder Überlegungen:
+
+- Nur die hot- und cold access tier's können auf Kontoebene festgelegt werden. Die Archivspeicherebene ist auf der Kontoebene nicht verfügbar.
+- Die hot- und cold access tier's und die Archivspeicherebene können während des Uploads oder danach auf Blobebene festgelegt werden.
+- Das archive access tier speichert Daten offline und zeichnet sich durch besonders niedrige Speicherkosten aus, verursacht aber gleichzeitig sehr hohe Kosten beim Aktivieren von und Zugreifen auf Daten.
+- Bei den Daten des cold acess tiers können geringfügige Abstriche bei der Verfügbarkeit gemacht werden. Dauerhaftigkeit, Abrufwartezeit und Durchsatz müssen sich jedoch auf einem ähnlich hohen Niveau befinden wie bei Daten des hot access tier's. Daher kann bei Daten des cold access tier's eine Kombination aus eines Service-Levelagreement (SLA) mit etwas niedrigerer Verfügbarkeit und höheren Zugriffskosten im Vergleich zu Daten des hot access tiers's in Kauf genommen werden, um im Gegenzug die Speicherkosten zu verringern.
+
+### Azure Files
+
+*Azure Files* ist im Grunde ein zentrale Fileablage in der Azure Cloud, welche über die Protokolle SMB und NFS zugegriffen werden kann. Man kann *Azure Files* mit einem NAS oder einem SAN vergleichen. 
+
+### Queue storage
+
+*Queue storage* wird verwendet, um grosse Nachrichtenmengen zu speichern. Nach der erfolgreichen Speicherung können Sie von überall auf der Welt über HTTP oder HTTPS abgerufen werden. Jede einzelne Nachricht kann bis zu 64KB gross sein.
+Wofür wird nun *Queue storage* verwendet?
+*Queue storage* könnte man für Hintergrundverarbeitung verwenden. Es eignet sich gut für Aufgaben, die im Hintergrund oder zeitgesteuert verarbeitet werden sollen. Anwendungen können Nachrichten in die Warteschlange stellen, die dann von einem oder mehreren Verarbeitungsdiensten abgerufen und verarbeitet werden.
+
+### Disk storage
+
+*Disk storage* ersetzen die physischen Festplatten in einem Server. *Disk storage* wird für die Verwendung von Azure-VM's eingesetzt. Bei der Verwaltung von den *Disks* muss nur die Provisionierung gemacht werden. Der Rest wird von Azure übernommen.
+
+## Praxisbeispiel Speicherblob Erstellung
+
+In diesem Praxisbeispiel werde ich auf dem Azure-Portal einen *Azure blob Storage* erstellen.
+
+Als Erstes meldet man sich auf [Home - Microsoft Azure](https://portal.azure.com/#home) an.
+
+Dann navigiert man auf *Ressource groups*
+
+![create_ressource_group](../ressources/create_ressource_group.png)
+
+Durch den Learning-Path wurde mir bereits eine *Recource group* erstellt, weshalb ich diese nicht noch erstellen muss.
+Ich habe dann diese angewählt und unter Categories *storage* das Häkchen *Azure service only* gesetzt.
+
+![Storage account 1](../ressources/storage_account_1.png)
+
+![Storage account 2](../ressources/storage_account_2.png)
+
+![Storage account 3](../ressources/storage_account_3.png)
+
+Nun konnte ich einen *Azure Storage account* erstellen. Ich habe die Konfiguration anhand des Learning-Path - Auftrags erstellt. Diese sieht wie folgt aus.
+
+![Storage account 4](../ressources/storage_account_4.png)
+
+Alle anderer Einstellungen habe ich auf den Default settings gelassen. Anschliessen mit *Review + Create* bestätigen.
+
+Weiter habe ich einen Blobcontainer erstellt und darin ein Bild hochgeladen.
+
+![Storage account 4](../ressources/storage_account_5.png)
+
+![Storage account 4](../ressources/storage_account_6.png)
+
+Wichtig ist, dass beim Erstellen des Containers der *Public access level* auf *Blob* eingestellt ist. Sonst kann man von extern mit der URL nicht darauf zugreifen.
+
+![Storage account 4](../ressources/storage_account_7.png)
+
+Nach dem Upload eines JPG konnte ich dieses erfolgreich per URL aufrufen.
+
+![Storage account 4](../ressources/storage_account_8.png)
+
+Da ich dieses Praxisbeispiel in einer Sandbox des Learning-Paths gemacht habe, kann ich leider keinen gültigen Link mehr aufweisen, auf welchem ein Bild angeschaut werden kann (Will ich auch aus Kosten gründen nicht mache).
+
+## Azure Migrate
+
+*Azure Migrate* ist ein Dienst, welcher die Migration von einer on premise Umgebung zur Cloud unterstützt. Folgendes wird von *Azure Migrate* angeboten:
+
+- Unified migration platform: Ein einzelnes Portal zum Starten, Ausführen und Nachverfolgen der Migration zu Azure
+- Range of tools: Eine Reihe von Tools für die Bewertung und für die Migration.
+- Assessment and migration: Im Azure Migrate-Hub können lokale Infrastrukturen bewerten und zu Azure migrieren werden.
+
+### Integrierte Tools
+
+- Azure Migrate: Als Vorbereitung für die Migration zu Azure werden lokale Server ermittelt und bewertet, die unter VMware, Hyper-V und auf physischen Servern ausgeführt werden.
+- Azure Migrate: Ist das Migrationstools für jegliche Arten von physischen und virtuellen Servern
+- Data Migration Assistant: Ist ein eigenständiges Tool zu Bewertung von SQL Server-Instanzen. Es ermöglicht die Analyse von möglichen Problemen, die einer Migration im Weg stehen könnten.
+- Azure Database Migration Service: Dient der Migration von lokalen Datenbanken zu Azure-VM's, auf welchen SQL-Server, Azure SQL-Datank oder verwaltete Azure SQL-Instanzen ausgeführt werden.
+- Web app migration assistant: Ist ein Migrations Assistent von Azure App Services, mit welchem lokale Webserver für die Migration zu Azure App Services bewerten kann.
+- Azure Data Box: Ist für die Migration von grösseren Mengen an Offline Daten
+
+
 
 ## Inhaltsverzeichnis
 
