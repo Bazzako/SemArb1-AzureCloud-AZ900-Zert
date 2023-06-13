@@ -237,7 +237,7 @@ Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit de
 
 ## Kurze Reflexion
 
-
+Da ich viele Themen noch gar nicht kannte, habe sehr viel zusammengefasst. Ich habe die Menge des Themas völlig unterschätzt und bin dadurch sehr in den Rückstand gefallen. Nichtsdestotrotz, hat mir das Zusammenfassen sehr viel geholfen, mich mit den Themen auseinander zu setzen und diese Schlussendlich zu verstehen.
 
 ## Inhaltsverzeichnis
 
