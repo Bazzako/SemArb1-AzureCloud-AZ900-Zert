@@ -24,6 +24,10 @@
 ### Geo-zone-redundant storage
 [geo-zone-redundant-storage-138ab5af.png (960×615) (microsoft.com)](https://learn.microsoft.com/en-us/training/wwl-azure/describe-azure-storage-services/media/geo-zone-redundant-storage-138ab5af.png)
 
+### Assess, Secure, and Defend
+[large (718×211) (microsoft.com)](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/361213iB61A2C7672686B8C/image-size/large?v=v2&px=999)
+
+
 ## Links zu diversem
 
 ### Tabelle der verschiedenen Cloudmodelle
