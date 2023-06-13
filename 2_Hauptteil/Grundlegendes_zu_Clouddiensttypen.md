@@ -46,13 +46,13 @@ In folgenden Szenarien könnte *SaaS* zum Zug kommen.
 
 Da mir die Szenarien im Learning-Path nicht ausgereicht haben, habe ich ChatGPT nach weiteren möglichen Szenarien für die verschiedenen Clouddiensttypen gefragt.
 
-### Wissenscheck
+## Wissenscheck
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
 ![4. Wissensbeurteilung](../ressources/Wissensbeurteilung_Clouddiensttypen.png)
 
-### Kurze Reflexion
+## Kurze Reflexion
 
 Ich konnte diesen Abschnitt schnell durcharbeiten, da dieser nicht gross, dafür einfach zu verstehen war. Was mir am meisten geholfen hat, die einzelnen Clouddiensttypen zu unterscheiden sind die waren die Anwenderszenarien.
 

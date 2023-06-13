@@ -63,13 +63,13 @@ Mit Azure ExpressRoute können alle lokalen Netzwerke über eine private Verbind
 
 Die Konnektivität kann über ein Any-to-Any-Netzwerk (IP VPN), ein Point-to-Point-Ethernet-Netzwerk oder eine virtuelle Querverbindung über einen Konnektivitätsanbieter in einer Co-Location-Einrichtung bereitgestellt werden. Da ExpressRoute-Verbindungen nicht das öffentliche Internet nutzen, können ExpressRoute-Verbindungen gleichmässige Latenz sowie höhere Sicherheit, grössere Zuverlässigkeit und schnellere Geschwindigkeit als herkömmliche Verbindungen über das Internet bieten.
 
-### Wissenscheck
+## Wissenscheck
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
 ![Wissenscheck](../ressources/Wissensbeurteilung_Azurecompute.png)
 
-### Kurze Reflexion
+## Kurze Reflexion
 
 Das ganze Thema war ein ziemlicher Brocken... ich musste einige Themen mehrmalig durchgehen, bis ich sie verstanden habe. Die Grösse des Learning-Path's empfand ich hier für zu gross. Die Themen sind eher komplex. Was mir sehr geholfen hat waren die Videos, welche einige Module genauer beschrieben haben.
 

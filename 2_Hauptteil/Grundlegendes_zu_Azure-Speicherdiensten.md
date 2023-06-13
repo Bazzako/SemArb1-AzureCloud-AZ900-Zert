@@ -202,6 +202,42 @@ Da ich dieses Praxisbeispiel in einer Sandbox des Learning-Paths gemacht habe, k
 - Azure Data Box: Ist für die Migration von grösseren Mengen an Offline Daten
 
 
+## Azure Data Box
+
+Die *Azure Data Box* ist ein physisches Migrationsmedium, welches grosse Datenmengen schnell, kostengünstig und zuverlässig übertragen kann. Die Box hat einen Speicherumfang von 80 Terabyte. Der Transport der *Data Box* erfolgt über einen regionalen Spediteur. Die Box kann über das Azure-Portal bestellt werden.
+
+Mögliche Szenarien, wenn man mit einer *Azure Data Box* migriert:
+
+- Datenmigration bei begrenzter Netzwerkbandbreite
+- Datenmigration aus Legacy-Systemen
+- Verschieben von Medienbibliotheken, von Offlinebändern in Azure, um eine Onlinemedienbibliothek zu erstellen
+
+## Azure file movement options
+
+Nebst der Migrationsmöglichkeit von Azure gibt es auch Tools, mit welchen man einzelne Dateien oder kleine Dateigruppen verschieben oder mit ihnen interagieren kann.
+
+### AZCopy
+
+*AZCopy* ist ein CLI Programm zum Kopieren von Blobs oder Daten in oder aus einem Speicherkonto. Mit *AZCopy* können sogar Dateien zwischen anderen Cloudanbieter verschoben werden.
+
+### Azure Storage Explorer
+
+*Azure Storage Explorer* ist eine eigenständige App mit einer grafischen Benutzeroberfläche zum Verwalten von Dateien und Blobs. Er verwendet *AZCopy* im Backend.
+
+### Azure File Sync
+
+*Azure File Sync* ist prinzipiell OneDrive für lokale Server, welche die Dateien dann mit *Azure Files* synchronisiert.
+
+## Wissensbeurteilung
+
+Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
+
+![Wissensbeurteilung](../ressources/Wissensbeurteilung_AzureStorage.png)
+
+
+## Kurze Reflexion
+
+
 
 ## Inhaltsverzeichnis
 

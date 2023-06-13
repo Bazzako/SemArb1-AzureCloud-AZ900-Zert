@@ -39,13 +39,13 @@ CapEx sind die einmaligen Kosten, welche generiert werden, wenn z.B. Hardware f�
 OpEx sind die fortlaufenden Kosten, welche für bezogene Dienstleistungen ausgegeben werden. Gegenüber CapEx zahlt man bei OpEx nur für die Dienstleistung, welche man auch wirklich bezieht (Pay as you Go). Es gibt keine Vorlaufkosten, da z.B. keine Hardware angeschafft werden muss. Diese wird vom Cloudprovider zur Verfügung gestellt. Zusätzliche Ressourcen können jederzeit bezogen und wieder entfernt werden. 
 
 
-### Wissenscheck
+## Wissenscheck
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
 ![2. Wissensbeurteilung](../ressources/Wissensbeuurteilung_Cloudcomputing.png)
 
-### Kurze Reflexion
+## Kurze Reflexion
 
 Wie ich bereits am Anfang des Dokuments erwähnt habe, ist mir die Cloud kein komplett neuer Begriff, weshalb mir die Einführung nicht sehr schwergefallen ist. Mir hat es jedoch geholfen, einzelne Themen vertieft anzuschauen und zusätzlich zu dokumentieren.
 

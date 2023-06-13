@@ -94,14 +94,14 @@ Es gibt 2 Verwaltungsarten für das Cloud-Computing. *Verwaltung der Cloud* und 
 - API's
 - Powershell
 
-### Wissenscheck
+## Wissenscheck
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
 ![3.Wissenscheck](../ressources/3_Wissensbeuurteilung.png)
 
 
-### Kurze Reflexion
+## Kurze Reflexion
 
 Ich hatte in diesem Learning-Path Modul etwas mühe den Begriff Governance zu verstehen. Dadurch, dass ich mich mir die Informationen nicht nur im Learning-Path geholt habe, sondern auch anderer Informationsquellen berücksichtigt habe, verstehe ich jetzt den Begriff. Ausserdem habe ich öfter die Vertikale - und Horizontale Skalierung. 
 

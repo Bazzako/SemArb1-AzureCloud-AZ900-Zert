@@ -87,13 +87,13 @@ Ich habe für den Test alle Einstellungen auf Default gelassen und der Maschine 
 
 ![Ressource](../ressources/create_ressource_service.png)
 
-### Wissenscheck
+## Wissenscheck
 
 Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
 
 ![Wissenscheck](../ressources/Wissensbeurteilung_Azurearchitektur.png)
 
-### Kurze Reflexion
+## Kurze Reflexion
 
 Ich hatte, etwas mühe die Subscriptions zu verstehen und habe dort etwas länger gebraucht. Ich musste die Dokumentation des Learning-Paths mehrmals durchlesen, um mir ein Bild machen zu können. Grundsätzlich fand ich das ganze Thema *Azure management infrastructure* nicht ganz einfach.
 
