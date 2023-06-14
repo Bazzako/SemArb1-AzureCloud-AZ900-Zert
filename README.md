@@ -1,8 +1,8 @@
-# Titelblatt der Semesterarbeiten
+# Titelblatt der Semesterarbeit
 
 Das Thema meiner ersten Semesterarbeit ist die detaillierte Dokumentation meines Werdegangs, in Form eines Tagebuchs, für die Zertifizierung AZ-900. Es sollen Learning-path Fortschritte, Praxisbeispiele erwähnt und gelerntes oder Problemstellungen, reflektiert werden. 
 
-Am Ende der Semesterarbeiten sollen folgende Ziele erreicht werden.
+Am Ende der Semesterarbeit sollen folgende Ziele erreicht werden.
 
 1.  _Absolvieren und Bestehen der Zertifizierung_
 2.  _Umfassende Dokumentation als Tagebuch_
@@ -22,8 +22,6 @@ Mit folgenden Risiken sind während der Arbeit zu rechnen:
 
 Damit die Semesterarbeit eine ordentliche Struktur erhält, wird hier ein Inhaltsverzeichnis der gesamten Arbeit geführt.
 Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen kleinen Kurzbeschrieb des Unterverzeichnisses findet. In diesem "Readme" werden weitere Navigationspunkte aufgeführt, damit man sich nicht in der Dokumentation verliert. Die ganze Arbeit wird im Github dokumentiert.
-
-
 
 ## Hauptinhaltsverzeichnis
 

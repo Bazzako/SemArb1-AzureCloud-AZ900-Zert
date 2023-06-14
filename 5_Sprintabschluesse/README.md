@@ -1,6 +1,6 @@
 ## Kurzbeschreibung der Sprint-Abschlüsse
 
-Hier werden die 3 Sprint-Abschlüsse welche während dem Projekt durchgeführt werden dokumentiert. Dies wird in der Projektdokumentation gemacht, damit die gesammte Projektstruktur beibehalten und die Übersicht bewahrt wird. Am Schluss des Inhaltsverzeichnisses findet man den Link, welcher einen zurück zur Titelseite (Hauptinhaltsverzeichnis) leitet.
+Hier werden die 3 Sprint-Abschlüsse welche während dem Projekt durchgeführt werden dokumentiert. Dies wird in der Projektdokumentation gemacht, damit die gesamte Projektstruktur beibehalten und die Übersicht bewahrt wird. Am Schluss des Inhaltsverzeichnisses findet man den Link, welcher einen zurück zur Titelseite (Hauptinhaltsverzeichnis) leitet.
 
 ## Inhaltsverzeichnis
 
