@@ -34,7 +34,7 @@ Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit de
 
 ## Kurze Reflexion
 
-Da das Modul selbst nicht so gross und diesmal einfach zu verstehen war, musste ich nicht allzu viel zusammenfassen. Ich verstehe jedoch das Thema *Azure-Blueprint Artifacts* noch nicht ganz und habe mich meine Fachexperten gewendet, mit welchen ich jetzt im Gespräch bin. Mir ist nicht ganz klar, ob alle *Artifact* nun gänzlich ohne Parameter gültig sind oder ob dies nur vereinzelt gilt. Den Wissenscheck habe ich bestanden, in welchem diese Frage sogar auftauche. Ich habe diese so beantwortet wie ich es verstanden habe und sie war korrekt.
+Da das Modul selbst nicht so gross und diesmal einfach zu verstehen war, musste ich nicht allzu viel zusammenfassen. Ich verstehe jedoch das Thema *Azure-Blueprint Artifacts* noch nicht ganz und habe mich meine Fachexperten gewendet, mit welchen ich jetzt im Gespräch bin. Mir ist nicht ganz klar, ob alle *Artifact* nun gänzlich ohne Parameter gültig sind oder ob dies nur vereinzelt gilt. Den Wissenscheck habe ich bestanden, in welchem diese Frage sogar auftauche. Ich habe diese so beantwortet, wie ich es verstanden habe und sie war korrekt.
 
 
 ## Inhaltsverzeichnis

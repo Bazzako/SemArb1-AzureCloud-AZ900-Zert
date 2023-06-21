@@ -27,6 +27,9 @@
 ### Assess, Secure, and Defend
 [large (718×211) (microsoft.com)](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/361213iB61A2C7672686B8C/image-size/large?v=v2&px=999)
 
+### Azure Monitor
+[overview_2023_02.png (2194×1483) (microsoft.com)](https://learn.microsoft.com/de-de/azure/azure-monitor/media/overview/overview_2023_02.png)
+
 
 ## Links zu diversem
 

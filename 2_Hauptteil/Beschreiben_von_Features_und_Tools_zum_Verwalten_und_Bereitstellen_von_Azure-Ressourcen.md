@@ -28,7 +28,15 @@ Hier werden einige Vorteile von *Azure templates* aufgelistet:
 - Wiederholbare Bereitstellung: Durch die Verwendung von *ARM templates* wird die Bereitstellung von *Recources* wiederholbar. Die gleiche Vorlage kann mehrmals verwendet werden, um eine konsistente Konfiguration über verschiedene Umgebungen hinweg zu erreichen. Dies erleichtert die automatisierte Bereitstellung und verringert Fehlerquelle.
 - Versionskontrolle: *ARM templates* können in einem Versionskontrollsystem wie Git oder OneDrive verwaltet werden. Dadurch können Änderungen an den *templates* nachverfolgt werden. Es besteht auch die Möglichkeit, frühere Versionen der Vorlagen wiederherzustellen, falls erforderlich.
 
+## Wissenscheck
 
+Zum Schluss habe ich den Wissenscheck erfolgreich absolviert und kann nun mit dem nächsten Thema starten.
+
+![Wissenscheck](../ressources/Wissensbeurteilung_Azure_Governance_tools.png)
+
+## Kurze Reflexion
+
+Da ich bereits mit dem Azure Portal arbeite, kannte ich einige Themen bereits. Die beiden Themen *Azure Arc* und *Azure templates* habe ich nun auch verstanden. Ich bin sehr motiviert am "Endspurt" meiner Semesterarbeit angelangt und werde versuchen diese Motivation bis zur Abgabe durchzuziehen.
 
 ## Inhaltsverzeichnis
 
