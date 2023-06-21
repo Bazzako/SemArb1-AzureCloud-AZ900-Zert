@@ -45,6 +45,34 @@ Im folgenden Bild wird veranschaulicht, wie umfangreich *Azure Monitor* ist:
 
 [Quelle](../4_Anhang/Quellenangabe#Availability-Zones)
 
+## Azure Log Analytics
+
+*Azure Log Analytics* ermöglicht, Protokolldaten aus verschiedenen Quellen zu sammeln, zu speichern und zu analysieren. Mit *Log Analytics* können Protokolldaten in Echtzeit durchsucht, abgefragt und visualisiert werden.
+
+
+## Application Insights
+
+*Application Insights*, ein *Azure Monitor-Feature* und überwacht Webanwendungen. *Application Insights* kann Anwendungen überwachen, die in Azure, lokal oder in einer anderen Cloudumgebung ausgeführt werden
+
+Folgende Informationen können mit *Application Insights* überwacht werden:
+
+- Anforderungsraten, Antwortzeiten und Fehlerraten
+- Abhängigkeitsraten, Antwortzeiten und Fehlerraten zum Ermitteln, ob die Leistung durch externe Dienste beeinträchtigt wird.
+- Informationen zu Seitenansichten und Ladeleistung, die von den Browsern der Benutzer gemeldet werden
+- AJAX-Aufrufe von Webseiten mit Informationen zu Raten, Antwortzeiten und Fehlerraten
+- Anzahl von Benutzern und Sitzungen
+- Leistungsindikatoren von Windows- oder Linux-Servercomputern, z. B. zu CPU, Arbeitsspeicher und Netzwerkauslastung
+
+## Wissenscheck
+
+![Wissenscheck Monitoring](../ressources/Wissensbeurteilung_Monitoring.png)
+
+Ich hatte einen Fehler beim letzten Wissenscheck, woraufhin ich das Thema nochmals durchgelesen habe. Darum habe mich auch gleich hinterfragt, warum ich die Antwort falsch ausgewählt habe. Ich habe die Frage nicht sauber durchgelesen und war der Meinung, dass ein Standort komplett down ist.
+
+## Kurze Reflexion
+
+Ich konnte die Themen schnell durcharbeiten, da diese für mich nicht schwierig zu verstehen waren. Ich hatte jedoch beim Wissenscheck einen Fehler, weil ich mich nicht richtig auf die Frage konzentriert habe. Da dies das letzte Kapitel im Learning-Path war und ich meinem Zeitplan voraus bin, werde ich die Zeit nutzen, um mich auf die AZ-900 Zertifizierung vorzubereiten. 
+
 ## Inhaltsverzeichnis
 
 [2. Hauptteil](./README.md)

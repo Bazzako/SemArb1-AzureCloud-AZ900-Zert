@@ -20,7 +20,7 @@ Im Hauptteil werden Lernergebnisse, Probleme und Praxisbeispiele detailliert bes
 
 [2.8 Beschreiben der Kostenverwaltung in Azure](./Beschreiben_der_Kostenverwaltung_in_Azure.md)
 
-[2.9 Beschreiben von Features und Tools zum Verwalten und Bereitstellen von Azure-Ressourcen](./Beschreiben_von_Features_und_Tools_zum_Verwalten_und_Bereitstellen_von_Azure-Ressourcen.md.md)
+[2.9 Beschreiben von Features und Tools zum Verwalten und Bereitstellen von Azure-Ressourcen](./Beschreiben_von_Features_und_Tools_zum_Verwalten_und_Bereitstellen_von_Azure-Ressourcen.md)
 
 [2.10 Beschreiben von Azure-Features und -Tools für Governance und Compliance](./Beschreiben_von_Azure-Features_und_-Tools_für_Governance_und_Compliance.md)
 

@@ -1,4 +1,6 @@
+## Vorbereitung auf die Zertifizierung
 
+Ich habe nach dem Abschluss des Learning-Path's die Probeprüfungen von Microsoft einige Male durchgespielt, bis ich immer 90 % richtig hatte. Bei Fragen die ich falsch beantwortet habe, habe ich mich erneut an meine Zusammenfassung gesetzt und das Thema nochmals durchgelesen
 
 ## Lession learned
 
