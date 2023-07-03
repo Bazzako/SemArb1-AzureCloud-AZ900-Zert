@@ -44,14 +44,12 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 - [2.9 Beschreiben von Features und Tools zum Verwalten und Bereitstellen von Azure-Ressourcen](./2_Hauptteil/Beschreiben_von_Features_und_Tools_zum_Verwalten_und_Bereitstellen_von_Azure-Ressourcen.md)
 - [2.10 Beschreiben von Azure-Features und -Tools für Governance und Compliance](./2_Hauptteil/Beschreiben_von_Azure-Features_und_-Tools_für_Governance_und_Compliance.md)
 - [2.11 Beschreiben von Überwachungstools in Azure](./2_Hauptteil/Beschreiben_von_Überwachungstools_in_Azure.md)
-- [2.12 Übungsassessments](./2_Hauptteil/Uebungsassessments.md)
 
 ----
 [3. Abschluss](./3_Abschluss/README.md)
 
-- [3.1 Erreichte Ziele](./3_Abschluss/Erreichte_Ziele.md)
-- [3.2 Probleme](./3_Abschluss/Probleme.md)
-- [3.3 Schlusswort](./3_Abschluss/Schlusswort.md)
+- [3.1 Übungsassessments](Uebungsassessments.md)
+- [3.2 Schlusswort](./3_Abschluss/Schlusswort.md)
 
 ---
 [4. Anhang](./4_Anhang/README.md)

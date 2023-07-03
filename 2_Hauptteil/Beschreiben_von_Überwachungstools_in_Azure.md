@@ -18,7 +18,7 @@ Im folgenden Abbild sieht man das Dashboard des *Advisors* eines meiner Kunden:
 
 ![Advisor Dashboard](../ressources/Advisor_Dashboard.png)
 
-Bei diesem ist mir dann aufgefallen, dass es einige Empfehlungen geben würde, worauf ich auf *Costs* (Kosten) navigiert habe. Dort habe ich dann gesehen, dass ein virtueller Datenträger keine Serverinstanz zugewiesen ist. Die *Empfohlene Aktion* dafür lautet "Sie verfügen über Datenträger, die seit mehr als 30 Tagen nicht an einen virtuellen Computer angefügt wurden. Bewerten Sie, ob Sie den Datenträger noch benötigen." Ich habe darauf hin meinen vorgesetzten informiert, dass wir hier beim Kunden eventuell kosten einsparen könnten. 
+Bei diesem ist mir dann aufgefallen, dass es einige Empfehlungen geben würde, worauf ich auf *Costs* (Kosten) navigiert habe. Dort habe ich dann gesehen, dass ein virtueller Datenträger keine Serverinstanz zugewiesen ist. Die *Empfohlene Aktion* dafür lautet "Sie verfügen über Datenträger, die seit mehr als 30 Tagen nicht an einen virtuellen Computer angefügt wurden. Bewerten Sie, ob Sie den Datenträger noch benötigen." Ich habe darauf hin meinen vorgesetzten informiert, dass wir hier beim Kunden eventuell kosten einsparen könnten. Wir haben darauf zusammen die Meldung validiert und den nicht zugewiesenen Storage gelöscht.
 
 Folgendes Bild zur Veranschaulichung:
 
@@ -34,7 +34,6 @@ Ich habe keine Quelle für die 2 Screenshots eingepflegt, da nur ich oder der Ku
 - Service Health: *Service Health* ist ein Teil von *Azure Service Health* und liefert Echtzeitinformationen über den Status der Azure-Dienste. Somit können Ausfallzeiten minimiert und eine optimale Leistung sichergestellt werden.
 - Resource Health: *Resource Health* ist eine Funktion von *Azure Service Health*, die sich auf den Zustand einzelner Ressourcen in einer Azure-Umgebung bezieht.
 
-
 ## Azure Monitor
 
 *Azure Monitor* ist eine Plattform für das Sammeln von Daten aus *Azure-Resources*. Diese Daten werden analysiert, die Informationen visualisiert. *Azure Monitor* kann aus diese gewonnenen Ergebnisse sogar reagieren. *Azure Monitor* ist nicht nur auf die Azure-Cloud beschränkt, sogar kann auf Multi-Cloud eben und sogar Onprem erweitert werden.
@@ -48,7 +47,6 @@ Im folgenden Bild wird veranschaulicht, wie umfangreich *Azure Monitor* ist:
 ## Azure Log Analytics
 
 *Azure Log Analytics* ermöglicht, Protokolldaten aus verschiedenen Quellen zu sammeln, zu speichern und zu analysieren. Mit *Log Analytics* können Protokolldaten in Echtzeit durchsucht, abgefragt und visualisiert werden.
-
 
 ## Application Insights
 

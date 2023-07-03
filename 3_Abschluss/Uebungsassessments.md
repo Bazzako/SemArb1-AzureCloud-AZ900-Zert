@@ -20,8 +20,24 @@ Ich habe mir die Zeit genommen, um die Prüfung nochmals durchzugehen. Es fällt
 
 Die Resultate werden immer besser und ich fühle mich immer sicherer mich für die Zertifizierung anzumelden.
 
+30.06.2023 18:30
+
+![Übungsassessment4](../ressources/Übungsassessments_4.png)
+
+Das zweite Testresultat, in welche im mind. 90% erreicht habe. Das bedeutet, dass ich nach der nächsten Prüfung mit 90% mich für die Zertifizierung anmelden werde.
+
+03.07.2023 18:30
+
+![Übungsassessment5](../ressources/Übungsassessments_5.png)
+
+Ich habe mein Ziel erreicht und 3x hintereinander mind. 90% korrekt gehabt an der Übungsprüfung und habe mich deshalb für die Zertifizierung angemeldet. Ich werde die Zertifizierung am 06.07.2023 um 18:30 Uhr durchführen.
+
+![Anmeldung](../ressources/Zertifizierung.png)
+
+Natürlich werde ich noch weiter lernen um mich für die Prüfung noch besser vorzubereiten.
+
 ## Inhaltsverzeichnis
 
-[2. Hauptteil](./README.md)
+[2. Hauptteil](SemArb1-AzureCloud-AZ900-Zert/2_Hauptteil/README.md)
 
 [Titelseite (Hauptinhaltsverzeichnis)](../README.md)
