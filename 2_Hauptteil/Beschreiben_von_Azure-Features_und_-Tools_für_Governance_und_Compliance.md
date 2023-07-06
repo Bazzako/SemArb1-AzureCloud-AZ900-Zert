@@ -1,4 +1,4 @@
-## Beschreiben_von_Azure-Features_und_-Tools_für_Governance_und_Compliance
+## Beschreiben von Azure-Features und -Tools für Governance und Compliance
 
 Da ich beim Zusammenfassen vom Thema *Governance and Compliance* Mühe hatte das Thema zu verstehen, werde ich hier die Tools für die Verwendung von *Governance and Compliance* zusammenfassen.
 
