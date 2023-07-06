@@ -27,6 +27,7 @@ Am Zeitplan hätte ich mehr arbeiten sollen. Ich habe nicht richtig eingeschätz
 
 ## Nicht erreichte Ziele
 
+-
 
 ## Reflexion der ganzen Semesterarbeit
 
