@@ -48,7 +48,7 @@ Man wird in den einzelnen Titel auf ein "Readme" geleitet, in welchem man einen 
 ----
 [3. Abschluss](./3_Abschluss/README.md)
 
-- [3.1 Übungsassessments](Uebungsassessments.md)
+- [3.1 Übungsassessments](./3_Abschluss/Uebungsassessments.md)
 - [3.2 Schlusswort](./3_Abschluss/Schlusswort.md)
 
 ---
