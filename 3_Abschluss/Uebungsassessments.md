@@ -38,6 +38,6 @@ Natürlich werde ich noch weiter lernen um mich für die Prüfung noch besser vo
 
 ## Inhaltsverzeichnis
 
-[2. Hauptteil](SemArb1-AzureCloud-AZ900-Zert/2_Hauptteil/README.md)
+[2. Hauptteil](./SemArb1-AzureCloud-AZ900-Zert/2_Hauptteil/README.md)
 
 [Titelseite (Hauptinhaltsverzeichnis)](../README.md)
