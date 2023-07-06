@@ -31,7 +31,7 @@ Am Zeitplan hätte ich mehr arbeiten sollen. Ich habe nicht richtig eingeschätz
 
 ## Reflexion der ganzen Semesterarbeit
 
-Da dies meine erste Semesterarbeit war, konnte ich sehr viele und gute Erfahrungen machen. Ich habe einige Fortschritte gemacht und habe alle meine Ziele erreicht. Es hat mir enorm geholfen, jedes gelernte Kapitel nochmals kurz zu reflektieren. Ich habe auch einige Fehler gemacht, welche ich aber bereits eingesehen und dokumentiert habe. Diese versuche ich für die nächste Semesterarbeit zu vermeiden. Für meine nächste Semesterarbeit werde ich auch bestimmt nicht mehr so etwas Theorielastiges auswählen, wie diese Semesterarbeit wählen. Da ich aber kein Ziel nicht erreicht habe, ist es für mich eine gelungene Semesterarbeit gewesen.
+Da dies meine erste Semesterarbeit war, konnte ich sehr viele und gute Erfahrungen machen. Ich habe einige Fortschritte während der Arbeit gemacht. Es hat mir enorm geholfen, jedes gelernte Kapitel nochmals kurz zu reflektieren. Ich habe auch einige Fehler gemacht, welche ich aber bereits eingesehen und dokumentiert habe. Diese versuche ich für die nächste Semesterarbeit zu vermeiden. Für meine nächste Semesterarbeit werde ich auch bestimmt nicht mehr so etwas Theorielastiges auswählen, wie diese Semesterarbeit wählen. Da ich aber kein Ziel nicht erreicht habe, ist es für mich eine gelungene Semesterarbeit gewesen.
 
 ## Inhaltsverzeichnis
 
