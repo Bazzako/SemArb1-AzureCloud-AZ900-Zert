@@ -42,7 +42,7 @@ Im folgenden Bild wird veranschaulicht, wie umfangreich *Azure Monitor* ist:
 
 ![Azure Monitor](../ressources/Azure-monitor.png)
 
-[Quelle](../4_Anhang/Quellenangabe#Availability-Zones)
+[Quelle](../4_Anhang/Quellenangabe.md#Availability-Zones)
 
 ## Azure Log Analytics
 

@@ -22,7 +22,7 @@ Zur Veranschaulichung folgendes Bild:
 
 ![Availability Zone](../ressources/availability-zones.png)
 
-[Quelle](../4_Anhang/Quellenangabe.md#Availability-Zones)
+[Quelle](../4_Anhang/Quellenangabe.md#availability-zones)
 
 #### Region Pairs
 
@@ -32,7 +32,7 @@ Folgendes Beispielbild zeigt eine solch mögliches *Region Pair*:
 
 ![Region Pairs](../ressources/region-pairs.png)
 
-[Quelle](../4_Anhang/Quellenangabe#Region-Pairs)
+[Quelle](../4_Anhang/Quellenangabe.md#region-pairs)
 
 #### Sovereign Region
 
