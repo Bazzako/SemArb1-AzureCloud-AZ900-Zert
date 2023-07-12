@@ -22,7 +22,7 @@ Zur Veranschaulichung folgendes Bild:
 
 ![Availability Zone](../ressources/availability-zones.png)
 
-[Quelle](../4_Anhang/Quellenangabe#Availability-Zones)
+[Quelle](../4_Anhang/Quellenangabe.md#Availability-Zones)
 
 #### Region Pairs
 
