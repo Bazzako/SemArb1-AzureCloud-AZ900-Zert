@@ -1,5 +1,8 @@
 ## Bilder
 
+### Azure Fundamentals
+[microsoft-azure-fundamentals-official-training-certification.png (600×600) (d20f8czie2ltiw.cloudfront.net)](https://d20f8czie2ltiw.cloudfront.net/images/logos/partners/microsoft-azure-fundamentals-official-training-certification.png)
+
 ### IaaS,PaaS und SaaS (Shared Responsibility Model)
 [learn.microsoft.com/de-de/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg](https://learn.microsoft.com/de-de/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg)
 

@@ -5,8 +5,8 @@ In der Einleitung werden die Tools und Produkte beschrieben, welche für die Sem
 ## Inhaltsverzeichnis
 
 
-[1.1 Was ist Microsoft Azure](Microsoft_Azure.md)
+ [1.1 Was ist Microsoft Azure](Microsoft_Azure.md)
 
-[1.2 Projektmanagent Methode](Projektmanagement_methode.md) 
+ [1.2 Projektmanagent Methode](Projektmanagement_methode.md) 
 
 [Titelseite (Hauptinhaltsverzeichnis)](../README.md)

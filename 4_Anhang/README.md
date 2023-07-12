@@ -4,6 +4,6 @@ Im Anhang findet man alle von extern genutzten Mittel, welche nicht direkt Teil 
 
 ## Inhaltsverzeichnis
 
-- [4.1 Quellenangabe](./Quellenangabe.md)
+ [4.1 Quellenangabe](./Quellenangabe.md)
 
 [Titelseite (Hauptinhaltsverzeichnis)](../README.md)
