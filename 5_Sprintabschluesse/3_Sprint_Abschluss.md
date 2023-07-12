@@ -16,7 +16,7 @@ Im letzten Teil der Semesterarbeit ist mir alles gut gelungen, dadurch dass ich 
 
 ### Abschluss
 
-Hier findet man das [Schlusswort der Semesterarbeit](../3_Abschluss/Schlusswort)
+Hier findet man das [Schlusswort der Semesterarbeit](../3_Abschluss/Schlusswort.md)
 
 ## Inhaltsverzeichnis
 
