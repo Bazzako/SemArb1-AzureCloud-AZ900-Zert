@@ -12,7 +12,7 @@ Am Ende der Semesterarbeit sollen folgende Ziele erreicht werden.
 
 ![AZ-900](./ressources/azure-fundamentals.png)
 
-[Quelle](../4_Anhang/Quellenangabe#azure-fundamentals)
+[Quelle](../4_Anhang/Quellenangabe.md#azure-fundamentals)
 
 Mit folgenden Risiken sind während der Arbeit zu rechnen:
 
